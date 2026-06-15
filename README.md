@@ -1,29 +1,32 @@
-# AI-RISK-RADAR (English/Turkish)
+# AI-RISK-RADAR
 
 **Country-level AI infrastructure risk analysis with scenario simulation**
 
-AI-RISK-RADAR is a data science project that analyzes how increasing artificial intelligence demand may create pressure on countries' energy and digital infrastructure. The project combines World Bank country-level indicators, feature engineering, scenario-based stress testing, machine learning, Power BI dashboards, and a Streamlit prototype.
+[Turkish version / Türkçe versiyon](README_TR.md)
 
-The goal of this project is not to predict a real infrastructure collapse probability. Instead, it aims to create a **relative AI infrastructure pressure indicator** that helps compare countries under different AI demand and energy capacity scenarios.
+AI-RISK-RADAR is a data science project that analyzes how increasing artificial intelligence demand may create pressure on countries' energy capacity and digital infrastructure.
+
+The project combines World Bank country-level indicators, feature engineering, scenario-based stress testing, machine learning, Power BI dashboarding, and a Streamlit prototype.
+
+The goal of this project is not to predict a real infrastructure collapse probability. Instead, it creates a **relative AI infrastructure pressure indicator** that compares countries under different AI demand and energy capacity assumptions.
 
 ---
 
 ## Project Motivation
 
-As artificial intelligence systems become more accessible and demand for AI-based services increases, the pressure on energy systems, data centers, digital infrastructure, and national capacity may also increase.
+As artificial intelligence systems become more accessible and AI-based services grow, the pressure on energy systems, digital infrastructure, data centers, and national capacity may also increase.
 
 The main question behind this project is:
 
 > If AI demand increases, which countries may face higher infrastructure and energy capacity pressure compared to others?
 
-Instead of using a standard recommendation system or a ready-made prediction problem, this project tries to model a less conventional and more strategic question:
-**Can AI infrastructure risk be represented through macro-level country indicators?**
+Since there is no direct variable such as “AI infrastructure risk” in the original dataset, this project focuses on building proxy variables, engineering a risk score, testing stress scenarios, and visualizing the results.
 
-Since there is no direct variable such as "AI infrastructure risk" in the original dataset, the project focuses on building proxy variables, engineering a risk score, testing scenarios, and visualizing the results.
+The project aims to transform raw macro-level country indicators into a structured AI infrastructure risk analysis framework.
 
 ---
 
-## Project Summary
+## Project Workflow
 
 The project follows this workflow:
 
@@ -31,10 +34,10 @@ The project follows this workflow:
 2. Clean and preprocess country-year level data.
 3. Remove non-country aggregate records.
 4. Create proxy variables for AI demand and energy capacity.
-5. Generate an AI infrastructure risk score.
+5. Generate a relative AI infrastructure risk score.
 6. Expand the dataset using a 3x3 scenario stress-test structure.
 7. Segment countries into Low / Medium / High Risk groups with KMeans.
-8. Train and compare machine learning regression models.
+8. Train and compare supervised regression models.
 9. Select the final model with leakage control.
 10. Visualize outputs with Power BI.
 11. Build an interactive Streamlit scenario simulator.
@@ -45,68 +48,121 @@ The project follows this workflow:
 
 The dataset was collected from the **World Bank API**.
 
-The selected period was:
+Selected period:
 
 ```text
 2015–2025
 ```
 
-The data is country-year based. However, not every country and variable has complete data for every year. For this reason, the project uses the most usable available records within the selected time range.
+The data is country-year based. However, not every country and variable has complete data for every year. Therefore, the project uses the most usable available records within the selected time range.
 
 ---
 
 ## Raw Variables
 
-The raw indicators were collected directly from World Bank. These variables do not directly represent AI infrastructure risk; they are used as macro-level proxies.
+The raw indicators were collected from World Bank. These variables do not directly represent AI infrastructure risk; they are used as macro-level proxies.
 
 | Raw variable                | Meaning in the project                   |
 | --------------------------- | ---------------------------------------- |
 | `gdp_per_capita`            | Economic capacity / income level         |
-| `population`                | Demand scale                             |
+| `population`                | Potential demand scale                   |
 | `internet_users_pct`        | Digitalization and AI adoption potential |
 | `electricity_kwh_pc`        | Energy capacity                          |
 | `renewable_electricity_pct` | Energy sustainability                    |
 | `energy_imports_net_pct`    | Energy dependency                        |
 
-In the project context, some variables are interpreted based on what they represent analytically. For example, `population` literally means population, but in this project it is used as a proxy for **potential demand scale**.
+In the project context, some variables are interpreted analytically. For example, `population` literally means population, but in this project it is used as a proxy for **potential AI demand scale**.
+
+---
+
+## Dataset Size
+
+The initial merged World Bank dataset contains:
+
+```text
+2,926 country-year rows
+8 columns
+```
+
+After preprocessing and feature engineering, the model-ready dataset contains:
+
+```text
+1,475 country-year observations
+14 columns
+```
+
+After applying the 3x3 scenario structure, the scenario dataset contains:
+
+```text
+13,275 country-year-scenario observations
+21 columns
+```
+
+This expansion comes from:
+
+```text
+1,475 model-ready observations × 9 scenarios = 13,275 scenario observations
+```
+
+The country-level summary contains:
+
+```text
+155 countries
+```
+
+The country-scenario summary contains:
+
+```text
+1,395 rows
+```
+
+This is calculated as:
+
+```text
+155 countries × 9 scenarios = 1,395 country-scenario records
+```
 
 ---
 
 ## Data Preprocessing
 
-The World Bank data required several preprocessing steps before modeling.
+The World Bank data required several preprocessing steps before analysis and modeling.
 
 ### Wide to Long Format
 
 The raw data originally contained year columns such as:
 
 ```text
-YR2015, YR2016, ...
+YR2015, YR2016, YR2017, ...
 ```
 
 These columns were transformed into a long country-year format.
 
-### Merging Indicators
+### Indicator Merging
 
-Each indicator was separated and then merged back at the country-year level. This created one unified dataset where each row represents a country-year observation.
+Each indicator was selected and then merged at the country-year level. This created one unified dataset where each row represents a country-year observation.
 
 ### Missing Value Handling
 
-Missing values were handled differently depending on the role of the variable.
+Missing values were handled differently depending on the analytical role of the variable.
 
 #### Demand-side variables
 
-Demand-side variables were critical for constructing the AI demand score:
+The demand-side variables were critical for constructing the AI demand score:
 
 * `gdp_per_capita`
 * `internet_users_pct`
 * `population`
 
-Rows with missing values in these variables were removed because missing values in demand-side indicators could create serious distortions in the risk score.
+Rows with missing values in these variables were removed because missing demand-side values could distort the AI demand score and the risk score.
 
-#### Capacity-side variables
+#### Capacity-side variable
 
-For the energy capacity side, a more controlled imputation strategy was used.
+Energy capacity was mainly represented through:
+
+* `electricity_kwh_pc`
+
+For this variable, a controlled imputation strategy was used:
 
 1. Missing `gdp_per_capita` values were filled with the median.
 2. Countries were grouped into `low`, `mid`, and `high` GDP groups.
@@ -121,7 +177,7 @@ This approach made the electricity capacity imputation more meaningful by consid
 
 World Bank returns not only countries but also regional, income-level, and aggregate records.
 
-Examples of non-country records:
+Examples of removed non-country records include:
 
 * World
 * High income
@@ -139,7 +195,7 @@ These records were removed because the model and maps are designed to analyze re
 
 ## Feature Engineering
 
-The original World Bank indicators do not directly measure AI infrastructure risk. Therefore, feature engineering was one of the most important parts of the project.
+The original World Bank indicators do not directly measure AI infrastructure risk. Therefore, feature engineering is one of the core parts of this project.
 
 The goal was to transform raw macro indicators into variables that better represent the business problem.
 
@@ -175,7 +231,7 @@ ai_demand_score_weighted
 
 ## Energy Capacity Score
 
-Energy capacity was represented mainly through:
+Energy capacity was mainly represented through:
 
 ```text
 electricity_kwh_pc
@@ -192,7 +248,7 @@ energy_capacity_score
 energy_capacity_pos
 ```
 
-`energy_capacity_pos` was created because standardized values can be negative, and the risk formula uses energy capacity in the denominator. A positive version was therefore required to avoid negative or unstable risk values.
+`energy_capacity_pos` was created because standardized values can be negative, and the risk formula uses energy capacity in the denominator. A positive version was required to avoid negative or unstable risk values.
 
 ---
 
@@ -206,7 +262,7 @@ Energy Capacity ↓
 = AI Infrastructure Risk ↑
 ```
 
-The simplified formula is:
+Simplified formula:
 
 ```text
 AI Risk Score = AI Demand Score / Energy Capacity
@@ -251,13 +307,13 @@ The two dimensions were crossed:
 This expanded the dataset from:
 
 ```text
-1,871 country-year observations
+1,475 country-year observations
 ```
 
 to:
 
 ```text
-16,839 country-year-scenario observations
+13,275 country-year-scenario observations
 ```
 
 The main scenario-based risk variable is:
@@ -282,7 +338,7 @@ This made it easier to interpret the results in Power BI maps and dashboards.
 
 ---
 
-## Modeling
+## Supervised Modeling
 
 The project also includes supervised regression modeling to predict the scenario risk score.
 
@@ -302,7 +358,23 @@ Several model families were compared:
 * Voting Regressor
 * Stacking Regressor
 
-The final selected model was a tuned LightGBM-based regression model.
+Evaluation metrics:
+
+* RMSE
+* MAE
+* R²
+
+The final selected model was:
+
+```text
+Tuned LightGBM Regressor
+```
+
+Final model performance:
+
+| Model          |   RMSE |    MAE |     R² |
+| -------------- | -----: | -----: | -----: |
+| LightGBM Tuned | 0.0665 | 0.0428 | 0.9991 |
 
 ---
 
@@ -312,7 +384,7 @@ The project paid special attention to target leakage.
 
 Some engineered variables directly contribute to the target risk score. Therefore, they were not used as final model inputs.
 
-Variables such as the following were excluded from the final model input set:
+Excluded leakage-prone variables included:
 
 ```text
 ai_demand_score_weighted
@@ -337,7 +409,7 @@ The final model used 6 explainable input variables:
 | `demand_multiplier`  | AI demand scenario       |
 | `energy_multiplier`  | Energy capacity scenario |
 
-This helped reduce leakage risk and made the model more interpretable.
+This helped reduce leakage risk and made the model more interpretable and product-ready.
 
 ---
 
@@ -345,16 +417,20 @@ This helped reduce leakage risk and made the model more interpretable.
 
 Feature importance was analyzed to understand which variables the final model relied on most.
 
-The most important variables included:
+According to permutation feature importance, the most important variables were:
 
-* `population`
-* `internet_users_pct`
-* `energy_multiplier`
-* `gdp_per_capita`
-* `demand_multiplier`
-* `electricity_kwh_pc`
+1. `internet_users_pct`
+2. `energy_multiplier`
+3. `gdp_per_capita`
+4. `demand_multiplier`
+5. `population`
+6. `electricity_kwh_pc`
 
-The high importance of `population` does not mean that crowded countries are automatically risky. In this project, population acts as a proxy for potential AI demand scale.
+The high importance of `internet_users_pct` shows that digitalization level plays a major role in the model’s risk estimation.
+
+The importance of `energy_multiplier` and `demand_multiplier` shows that the model responds strongly to stress scenario assumptions.
+
+The importance of `population` does not mean that crowded countries are automatically risky. In this project, population acts as a proxy for potential AI demand scale.
 
 ---
 
@@ -401,7 +477,7 @@ The Streamlit app turns the project from a static analysis into a scenario simul
 
 ## Output Files
 
-The repository contains the following output files.
+The repository contains the following output files:
 
 | File                                    | Description                                     |
 | --------------------------------------- | ----------------------------------------------- |
@@ -419,7 +495,6 @@ The repository contains the following output files.
 | `12_final_model_comparison.csv`         | Final model comparison including tuned model    |
 | `13_feature_importance_native.csv`      | Native feature importance results               |
 | `14_feature_importance_permutation.csv` | Permutation feature importance results          |
-| `streamlit_country_reference.csv`       | Country reference data used in Streamlit        |
 
 ---
 
@@ -457,7 +532,7 @@ Instead, it should be interpreted as:
 The score is useful for:
 
 * comparing countries,
-* identifying relative pressure,
+* identifying relative infrastructure pressure,
 * testing scenarios,
 * observing risk ranking changes,
 * supporting early-stage infrastructure risk analysis.
@@ -510,3 +585,6 @@ It is better understood as:
 > A prototype risk scoring and scenario simulation system that makes country-level AI infrastructure pressure visible through data.
 
 Its main contribution is the process of transforming raw macroeconomic and infrastructure data into a structured AI infrastructure risk analysis framework.
+
+
+
