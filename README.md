@@ -1,4 +1,4 @@
-# AI-RISK-RADAR
+# AI-RISK-RADAR (English/Turkish)
 
 **Country-level AI infrastructure risk analysis with scenario simulation**
 
