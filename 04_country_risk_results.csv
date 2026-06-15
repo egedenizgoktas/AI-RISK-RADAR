@@ -1,0 +1,156 @@
+country,scenario_risk_score,risk_cluster,risk_level
+Afghanistan,-3.940539313859252,2,Low Risk
+Albania,0.007591931002682832,1,High Risk
+Algeria,0.19379857694214297,1,High Risk
+Angola,-1.3914809463553706,0,Medium Risk
+Argentina,1.1444596194949206,1,High Risk
+Armenia,-0.10581827513064762,1,High Risk
+Australia,1.1059561378012495,1,High Risk
+Austria,1.0674075668780392,1,High Risk
+Azerbaijan,0.4053763093967945,1,High Risk
+Bahrain,0.38369039227796065,1,High Risk
+Bangladesh,-1.1972430982333118,0,Medium Risk
+Belarus,0.4354345093776114,1,High Risk
+Belgium,1.1510164180731426,1,High Risk
+Benin,-3.122289525435663,2,Low Risk
+Bolivia,-0.37281570030496436,0,Medium Risk
+Bosnia and Herzegovina,0.09089754557012747,1,High Risk
+Botswana,-0.406001089708501,0,Medium Risk
+Brazil,1.1874907005677438,1,High Risk
+Bulgaria,0.388311355540754,1,High Risk
+Burkina Faso,-4.242824768856539,2,Low Risk
+Burundi,-6.341027086857988,2,Low Risk
+Cambodia,-1.2090340039089662,0,Medium Risk
+Cameroon,-1.9182963044071013,0,Medium Risk
+Canada,0.8117933123636543,1,High Risk
+Chad,-5.051461050729124,2,Low Risk
+Chile,1.012742195568128,1,High Risk
+China,1.1382081414510028,1,High Risk
+Colombia,0.7032806496402572,1,High Risk
+"Congo, Dem. Rep.",-4.107035332609851,2,Low Risk
+"Congo, Rep.",-2.8397532804904344,2,Low Risk
+Costa Rica,0.7941940437534811,1,High Risk
+Cote d'Ivoire,-1.2382450002988663,0,Medium Risk
+Croatia,0.6402021209424759,1,High Risk
+Cuba,0.28200878309966887,1,High Risk
+Cyprus,0.902479970011212,1,High Risk
+Czechia,0.8919237550358848,1,High Risk
+Denmark,1.4052777471922178,1,High Risk
+Djibouti,-1.374796827400831,0,Medium Risk
+Dominican Republic,0.6092896999432594,1,High Risk
+Ecuador,0.3082193731337411,1,High Risk
+"Egypt, Arab Rep.",0.15918751187466962,1,High Risk
+El Salvador,-0.648678680632418,0,Medium Risk
+Equatorial Guinea,-0.7781497392140269,0,Medium Risk
+Estonia,0.6742119619557357,1,High Risk
+Eswatini,-1.2911096272832325,0,Medium Risk
+Ethiopia,-3.2545096126082975,2,Low Risk
+Finland,0.6546960917643111,1,High Risk
+France,1.3135190784516795,1,High Risk
+Gabon,-0.13591451818681238,1,High Risk
+"Gambia, The",-3.0528194773702872,2,Low Risk
+Georgia,-0.045283536712803635,1,High Risk
+Germany,1.5033285922013264,1,High Risk
+Ghana,-0.9517271608127967,0,Medium Risk
+Greece,0.8604943546530557,1,High Risk
+Guatemala,-0.42448383963831926,0,Medium Risk
+Guinea,-2.8382498880213447,2,Low Risk
+Guinea-Bissau,-3.8915041286495726,2,Low Risk
+Haiti,-2.1515723460846954,0,Medium Risk
+Honduras,-1.1613644207942329,0,Medium Risk
+"Hong Kong SAR, China",1.1969914306090101,1,High Risk
+Hungary,0.8899633577390527,1,High Risk
+India,-0.39238995802810506,0,Medium Risk
+Indonesia,0.20743498978173586,1,High Risk
+"Iran, Islamic Rep.",0.5075939292867051,1,High Risk
+Iraq,-0.1595979193704878,1,High Risk
+Ireland,1.4436615216971989,1,High Risk
+Israel,1.1187435011490896,1,High Risk
+Italy,1.3239626507330096,1,High Risk
+Jamaica,-0.03824797166451671,1,High Risk
+Japan,1.290966351331817,1,High Risk
+Jordan,0.1216254767791545,1,High Risk
+Kazakhstan,0.6732954973416514,1,High Risk
+Kenya,-2.135262172826017,0,Medium Risk
+"Korea, Rep.",0.9567596009604872,1,High Risk
+Kosovo,-0.0901082651982744,1,High Risk
+Kuwait,0.5679796184710091,1,High Risk
+Kyrgyz Republic,-0.9512592301010417,0,Medium Risk
+Lao PDR,-1.3312851056293422,0,Medium Risk
+Latvia,0.753716046275417,1,High Risk
+Lebanon,0.3110780835843535,1,High Risk
+Lesotho,-2.426294106608771,0,Medium Risk
+Liberia,-3.5525315437467246,2,Low Risk
+Libya,0.10288209729830344,1,High Risk
+Lithuania,0.7883764033957613,1,High Risk
+Madagascar,-5.078959228057514,2,Low Risk
+Malawi,-4.333810078657027,2,Low Risk
+Malaysia,0.8386052397714784,1,High Risk
+Mali,-2.670473308429648,2,Low Risk
+Mauritania,-2.2958921587512244,0,Medium Risk
+Mauritius,0.0768158274612659,1,High Risk
+Mexico,1.138186117512736,1,High Risk
+Moldova,-0.15220775354685032,1,High Risk
+Mongolia,-0.6055010336610979,0,Medium Risk
+Morocco,0.3603858139530774,1,High Risk
+Mozambique,-4.291920607100669,2,Low Risk
+Myanmar,-2.3322073118041016,0,Medium Risk
+Namibia,-0.7459297099934683,0,Medium Risk
+Nepal,-2.1677524720016335,0,Medium Risk
+Netherlands,1.3742731029979076,1,High Risk
+New Zealand,0.9467439237232464,1,High Risk
+Nicaragua,-1.5451675602683088,0,Medium Risk
+Niger,-5.070533288743037,2,Low Risk
+Nigeria,-1.0085870930869287,0,Medium Risk
+Norway,0.559890636818549,1,High Risk
+Oman,0.6551049620315734,1,High Risk
+Pakistan,-2.252506034254423,0,Medium Risk
+Panama,0.561902662115181,1,High Risk
+Papua New Guinea,-2.8940679070136426,2,Low Risk
+Paraguay,0.14043291767657415,1,High Risk
+Peru,0.4939001686226415,1,High Risk
+Philippines,0.06209008934952261,1,High Risk
+Poland,1.0880469788063416,1,High Risk
+Portugal,0.9524391655452363,1,High Risk
+Puerto Rico (US),0.6478225470971493,1,High Risk
+Qatar,0.6778001431171187,1,High Risk
+Romania,0.8895369415561893,1,High Risk
+Russian Federation,0.8871980684658192,1,High Risk
+Rwanda,-3.5398437043831894,2,Low Risk
+Saudi Arabia,0.8375517076793293,1,High Risk
+Senegal,-1.6636102207690038,0,Medium Risk
+Serbia,0.36609595200280654,1,High Risk
+Sierra Leone,-3.8392157468936956,2,Low Risk
+Singapore,1.0418667325294766,1,High Risk
+Slovak Republic,0.8471034426175359,1,High Risk
+Slovenia,0.6911343352670526,1,High Risk
+Small states,0.45261347160974247,1,High Risk
+"Somalia, Fed. Rep.",-4.542970742954678,2,Low Risk
+South Sudan,-6.529895904491386,2,Low Risk
+Spain,1.3756233700029006,1,High Risk
+Sri Lanka,-0.9479335636891713,0,Medium Risk
+Sudan,-3.429930952953315,2,Low Risk
+Sweden,0.833105477244392,1,High Risk
+Switzerland,1.3878384334821738,1,High Risk
+Syrian Arab Republic,-2.315407337594794,0,Medium Risk
+Tajikistan,-2.1904814887690645,0,Medium Risk
+Tanzania,-2.9936290337299094,2,Low Risk
+Thailand,0.6781020613009865,1,High Risk
+Timor-Leste,-2.9464158482372835,2,Low Risk
+Togo,-3.5812068269543866,2,Low Risk
+Tunisia,-0.18055553539043218,1,High Risk
+Turkiye,1.0148584596332655,1,High Risk
+Turkmenistan,-1.5203850056649324,0,Medium Risk
+Uganda,-4.666550204668423,2,Low Risk
+Ukraine,0.18899722023622623,1,High Risk
+United Arab Emirates,0.7830384574618491,1,High Risk
+United Kingdom,1.7884249480906191,1,High Risk
+United States,1.1720127351228442,1,High Risk
+Uruguay,0.7994518771571768,1,High Risk
+Uzbekistan,-0.17503419152636823,1,High Risk
+"Venezuela, RB",-0.015361663459807745,1,High Risk
+Viet Nam,0.32966161814013417,1,High Risk
+West Bank and Gaza,-0.3182348016747942,1,High Risk
+"Yemen, Rep.",-2.701375664849795,2,Low Risk
+Zambia,-3.3684489429990094,2,Low Risk
+Zimbabwe,-1.817706397496472,0,Medium Risk

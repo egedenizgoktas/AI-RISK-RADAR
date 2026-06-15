@@ -1,0 +1,1396 @@
+country,scenario,scenario_risk_score
+Afghanistan,baseline_demand_baseline_energy,-1.1258683753883576
+Afghanistan,baseline_demand_low_energy,-2.251736750776715
+Afghanistan,baseline_demand_severe_low_energy,-4.50347350155343
+Afghanistan,extreme_demand_baseline_energy,-2.251736750776715
+Afghanistan,extreme_demand_low_energy,-4.50347350155343
+Afghanistan,extreme_demand_severe_low_energy,-9.00694700310686
+Afghanistan,high_demand_baseline_energy,-1.6888025630825365
+Afghanistan,high_demand_low_energy,-3.377605126165073
+Afghanistan,high_demand_severe_low_energy,-6.755210252330146
+Albania,baseline_demand_baseline_energy,0.002169123143623665
+Albania,baseline_demand_low_energy,0.00433824628724733
+Albania,baseline_demand_severe_low_energy,0.00867649257449466
+Albania,extreme_demand_baseline_energy,0.00433824628724733
+Albania,extreme_demand_low_energy,0.00867649257449466
+Albania,extreme_demand_severe_low_energy,0.01735298514898932
+Albania,high_demand_baseline_energy,0.0032536847154354953
+Albania,high_demand_low_energy,0.006507369430870991
+Albania,high_demand_severe_low_energy,0.013014738861741981
+Algeria,baseline_demand_baseline_energy,0.055371021983469416
+Algeria,baseline_demand_low_energy,0.11074204396693883
+Algeria,baseline_demand_severe_low_energy,0.22148408793387767
+Algeria,extreme_demand_baseline_energy,0.11074204396693883
+Algeria,extreme_demand_low_energy,0.22148408793387767
+Algeria,extreme_demand_severe_low_energy,0.44296817586775533
+Algeria,high_demand_baseline_energy,0.08305653297520413
+Algeria,high_demand_low_energy,0.16611306595040826
+Algeria,high_demand_severe_low_energy,0.3322261319008165
+Angola,baseline_demand_baseline_energy,-0.397565984672963
+Angola,baseline_demand_low_energy,-0.795131969345926
+Angola,baseline_demand_severe_low_energy,-1.590263938691852
+Angola,extreme_demand_baseline_energy,-0.795131969345926
+Angola,extreme_demand_low_energy,-1.590263938691852
+Angola,extreme_demand_severe_low_energy,-3.180527877383704
+Angola,high_demand_baseline_energy,-0.5963489770094446
+Angola,high_demand_low_energy,-1.1926979540188891
+Angola,high_demand_severe_low_energy,-2.3853959080377782
+Argentina,baseline_demand_baseline_energy,0.32698846271283444
+Argentina,baseline_demand_low_energy,0.6539769254256689
+Argentina,baseline_demand_severe_low_energy,1.3079538508513378
+Argentina,extreme_demand_baseline_energy,0.6539769254256689
+Argentina,extreme_demand_low_energy,1.3079538508513378
+Argentina,extreme_demand_severe_low_energy,2.6159077017026755
+Argentina,high_demand_baseline_energy,0.49048269406925177
+Argentina,high_demand_low_energy,0.9809653881385035
+Argentina,high_demand_severe_low_energy,1.961930776277007
+Armenia,baseline_demand_baseline_energy,-0.030233792894470746
+Armenia,baseline_demand_low_energy,-0.06046758578894149
+Armenia,baseline_demand_severe_low_energy,-0.12093517157788299
+Armenia,extreme_demand_baseline_energy,-0.06046758578894149
+Armenia,extreme_demand_low_energy,-0.12093517157788299
+Armenia,extreme_demand_severe_low_energy,-0.24187034315576597
+Armenia,high_demand_baseline_energy,-0.04535068934170612
+Armenia,high_demand_low_energy,-0.09070137868341224
+Armenia,high_demand_severe_low_energy,-0.18140275736682449
+Australia,baseline_demand_baseline_energy,0.3159874679432141
+Australia,baseline_demand_low_energy,0.6319749358864282
+Australia,baseline_demand_severe_low_energy,1.2639498717728563
+Australia,extreme_demand_baseline_energy,0.6319749358864282
+Australia,extreme_demand_low_energy,1.2639498717728563
+Australia,extreme_demand_severe_low_energy,2.5278997435457127
+Australia,high_demand_baseline_energy,0.4739812019148212
+Australia,high_demand_low_energy,0.9479624038296424
+Australia,high_demand_severe_low_energy,1.8959248076592847
+Austria,baseline_demand_baseline_energy,0.3049735905365826
+Austria,baseline_demand_low_energy,0.6099471810731651
+Austria,baseline_demand_severe_low_energy,1.2198943621463303
+Austria,extreme_demand_baseline_energy,0.6099471810731651
+Austria,extreme_demand_low_energy,1.2198943621463303
+Austria,extreme_demand_severe_low_energy,2.4397887242926606
+Austria,high_demand_baseline_energy,0.45746038580487386
+Austria,high_demand_low_energy,0.9149207716097477
+Austria,high_demand_severe_low_energy,1.8298415432194954
+Azerbaijan,baseline_demand_baseline_energy,0.1158218026847984
+Azerbaijan,baseline_demand_low_energy,0.2316436053695968
+Azerbaijan,baseline_demand_severe_low_energy,0.4632872107391936
+Azerbaijan,extreme_demand_baseline_energy,0.2316436053695968
+Azerbaijan,extreme_demand_low_energy,0.4632872107391936
+Azerbaijan,extreme_demand_severe_low_energy,0.9265744214783872
+Azerbaijan,high_demand_baseline_energy,0.1737327040271976
+Azerbaijan,high_demand_low_energy,0.3474654080543952
+Azerbaijan,high_demand_severe_low_energy,0.6949308161087904
+Bahrain,baseline_demand_baseline_energy,0.1096258263651316
+Bahrain,baseline_demand_low_energy,0.2192516527302632
+Bahrain,baseline_demand_severe_low_energy,0.4385033054605264
+Bahrain,extreme_demand_baseline_energy,0.2192516527302632
+Bahrain,extreme_demand_low_energy,0.4385033054605264
+Bahrain,extreme_demand_severe_low_energy,0.8770066109210528
+Bahrain,high_demand_baseline_energy,0.16443873954769744
+Bahrain,high_demand_low_energy,0.3288774790953949
+Bahrain,high_demand_severe_low_energy,0.6577549581907898
+Bangladesh,baseline_demand_baseline_energy,-0.3420694566380891
+Bangladesh,baseline_demand_low_energy,-0.6841389132761782
+Bangladesh,baseline_demand_severe_low_energy,-1.3682778265523563
+Bangladesh,extreme_demand_baseline_energy,-0.6841389132761782
+Bangladesh,extreme_demand_low_energy,-1.3682778265523563
+Bangladesh,extreme_demand_severe_low_energy,-2.7365556531047126
+Bangladesh,high_demand_baseline_energy,-0.5131041849571336
+Bangladesh,high_demand_low_energy,-1.0262083699142672
+Bangladesh,high_demand_severe_low_energy,-2.0524167398285345
+Belarus,baseline_demand_baseline_energy,0.1244098598221747
+Belarus,baseline_demand_low_energy,0.2488197196443494
+Belarus,baseline_demand_severe_low_energy,0.4976394392886988
+Belarus,extreme_demand_baseline_energy,0.2488197196443494
+Belarus,extreme_demand_low_energy,0.4976394392886988
+Belarus,extreme_demand_severe_low_energy,0.9952788785773976
+Belarus,high_demand_baseline_energy,0.18661478973326204
+Belarus,high_demand_low_energy,0.3732295794665241
+Belarus,high_demand_severe_low_energy,0.7464591589330482
+Belgium,baseline_demand_baseline_energy,0.3288618337351836
+Belgium,baseline_demand_low_energy,0.6577236674703671
+Belgium,baseline_demand_severe_low_energy,1.3154473349407343
+Belgium,extreme_demand_baseline_energy,0.6577236674703671
+Belgium,extreme_demand_low_energy,1.3154473349407343
+Belgium,extreme_demand_severe_low_energy,2.6308946698814686
+Belgium,high_demand_baseline_energy,0.49329275060277544
+Belgium,high_demand_low_energy,0.9865855012055509
+Belgium,high_demand_severe_low_energy,1.9731710024111018
+Benin,baseline_demand_baseline_energy,-0.8920827215530466
+Benin,baseline_demand_low_energy,-1.7841654431060932
+Benin,baseline_demand_severe_low_energy,-3.5683308862121863
+Benin,extreme_demand_baseline_energy,-1.7841654431060932
+Benin,extreme_demand_low_energy,-3.5683308862121863
+Benin,extreme_demand_severe_low_energy,-7.136661772424373
+Benin,high_demand_baseline_energy,-1.33812408232957
+Benin,high_demand_low_energy,-2.67624816465914
+Benin,high_demand_severe_low_energy,-5.35249632931828
+Bolivia,baseline_demand_baseline_energy,-0.1065187715157041
+Bolivia,baseline_demand_low_energy,-0.2130375430314082
+Bolivia,baseline_demand_severe_low_energy,-0.4260750860628164
+Bolivia,extreme_demand_baseline_energy,-0.2130375430314082
+Bolivia,extreme_demand_low_energy,-0.4260750860628164
+Bolivia,extreme_demand_severe_low_energy,-0.8521501721256328
+Bolivia,high_demand_baseline_energy,-0.15977815727355615
+Bolivia,high_demand_low_energy,-0.3195563145471123
+Bolivia,high_demand_severe_low_energy,-0.6391126290942246
+Bosnia and Herzegovina,baseline_demand_baseline_energy,0.0259707273057507
+Bosnia and Herzegovina,baseline_demand_low_energy,0.0519414546115014
+Bosnia and Herzegovina,baseline_demand_severe_low_energy,0.1038829092230028
+Bosnia and Herzegovina,extreme_demand_baseline_energy,0.0519414546115014
+Bosnia and Herzegovina,extreme_demand_low_energy,0.1038829092230028
+Bosnia and Herzegovina,extreme_demand_severe_low_energy,0.2077658184460056
+Bosnia and Herzegovina,high_demand_baseline_energy,0.03895609095862605
+Bosnia and Herzegovina,high_demand_low_energy,0.0779121819172521
+Bosnia and Herzegovina,high_demand_severe_low_energy,0.1558243638345042
+Botswana,baseline_demand_baseline_energy,-0.116000311345286
+Botswana,baseline_demand_low_energy,-0.232000622690572
+Botswana,baseline_demand_severe_low_energy,-0.464001245381144
+Botswana,extreme_demand_baseline_energy,-0.232000622690572
+Botswana,extreme_demand_low_energy,-0.464001245381144
+Botswana,extreme_demand_severe_low_energy,-0.928002490762288
+Botswana,high_demand_baseline_energy,-0.174000467017929
+Botswana,high_demand_low_energy,-0.348000934035858
+Botswana,high_demand_severe_low_energy,-0.696001868071716
+Brazil,baseline_demand_baseline_energy,0.3392830573050697
+Brazil,baseline_demand_low_energy,0.6785661146101394
+Brazil,baseline_demand_severe_low_energy,1.3571322292202788
+Brazil,extreme_demand_baseline_energy,0.6785661146101394
+Brazil,extreme_demand_low_energy,1.3571322292202788
+Brazil,extreme_demand_severe_low_energy,2.7142644584405575
+Brazil,high_demand_baseline_energy,0.5089245859576045
+Brazil,high_demand_low_energy,1.017849171915209
+Brazil,high_demand_severe_low_energy,2.035698343830418
+Bulgaria,baseline_demand_baseline_energy,0.11094610158307258
+Bulgaria,baseline_demand_low_energy,0.22189220316614516
+Bulgaria,baseline_demand_severe_low_energy,0.4437844063322903
+Bulgaria,extreme_demand_baseline_energy,0.22189220316614516
+Bulgaria,extreme_demand_low_energy,0.4437844063322903
+Bulgaria,extreme_demand_severe_low_energy,0.8875688126645807
+Bulgaria,high_demand_baseline_energy,0.16641915237460886
+Bulgaria,high_demand_low_energy,0.3328383047492177
+Bulgaria,high_demand_severe_low_energy,0.6656766094984354
+Burkina Faso,baseline_demand_baseline_energy,-1.2122356482447254
+Burkina Faso,baseline_demand_low_energy,-2.424471296489451
+Burkina Faso,baseline_demand_severe_low_energy,-4.848942592978902
+Burkina Faso,extreme_demand_baseline_energy,-2.424471296489451
+Burkina Faso,extreme_demand_low_energy,-4.848942592978902
+Burkina Faso,extreme_demand_severe_low_energy,-9.697885185957803
+Burkina Faso,high_demand_baseline_energy,-1.8183534723670882
+Burkina Faso,high_demand_low_energy,-3.6367069447341764
+Burkina Faso,high_demand_severe_low_energy,-7.273413889468353
+Burundi,baseline_demand_baseline_energy,-1.8117220248165675
+Burundi,baseline_demand_low_energy,-3.623444049633135
+Burundi,baseline_demand_severe_low_energy,-7.24688809926627
+Burundi,extreme_demand_baseline_energy,-3.623444049633135
+Burundi,extreme_demand_low_energy,-7.24688809926627
+Burundi,extreme_demand_severe_low_energy,-14.49377619853254
+Burundi,high_demand_baseline_energy,-2.7175830372248515
+Burundi,high_demand_low_energy,-5.435166074449703
+Burundi,high_demand_severe_low_energy,-10.870332148899406
+Cambodia,baseline_demand_baseline_energy,-0.34543828683113315
+Cambodia,baseline_demand_low_energy,-0.6908765736622663
+Cambodia,baseline_demand_severe_low_energy,-1.3817531473245326
+Cambodia,extreme_demand_baseline_energy,-0.6908765736622663
+Cambodia,extreme_demand_low_energy,-1.3817531473245326
+Cambodia,extreme_demand_severe_low_energy,-2.763506294649065
+Cambodia,high_demand_baseline_energy,-0.5181574302466998
+Cambodia,high_demand_low_energy,-1.0363148604933996
+Cambodia,high_demand_severe_low_energy,-2.072629720986799
+Cameroon,baseline_demand_baseline_energy,-0.5480846584020289
+Cameroon,baseline_demand_low_energy,-1.0961693168040578
+Cameroon,baseline_demand_severe_low_energy,-2.1923386336081157
+Cameroon,extreme_demand_baseline_energy,-1.0961693168040578
+Cameroon,extreme_demand_low_energy,-2.1923386336081157
+Cameroon,extreme_demand_severe_low_energy,-4.384677267216231
+Cameroon,high_demand_baseline_energy,-0.8221269876030434
+Cameroon,high_demand_low_energy,-1.6442539752060867
+Cameroon,high_demand_severe_low_energy,-3.2885079504121735
+Canada,baseline_demand_baseline_energy,0.23194094638961546
+Canada,baseline_demand_low_energy,0.4638818927792309
+Canada,baseline_demand_severe_low_energy,0.9277637855584618
+Canada,extreme_demand_baseline_energy,0.4638818927792309
+Canada,extreme_demand_low_energy,0.9277637855584618
+Canada,extreme_demand_severe_low_energy,1.8555275711169237
+Canada,high_demand_baseline_energy,0.3479114195844232
+Canada,high_demand_low_energy,0.6958228391688464
+Canada,high_demand_severe_low_energy,1.3916456783376927
+Chad,baseline_demand_baseline_energy,-1.4432745859226068
+Chad,baseline_demand_low_energy,-2.8865491718452136
+Chad,baseline_demand_severe_low_energy,-5.773098343690427
+Chad,extreme_demand_baseline_energy,-2.8865491718452136
+Chad,extreme_demand_low_energy,-5.773098343690427
+Chad,extreme_demand_severe_low_energy,-11.546196687380855
+Chad,high_demand_baseline_energy,-2.1649118788839106
+Chad,high_demand_low_energy,-4.329823757767821
+Chad,high_demand_severe_low_energy,-8.659647515535642
+Chile,baseline_demand_baseline_energy,0.28935491301946514
+Chile,baseline_demand_low_energy,0.5787098260389303
+Chile,baseline_demand_severe_low_energy,1.1574196520778606
+Chile,extreme_demand_baseline_energy,0.5787098260389303
+Chile,extreme_demand_low_energy,1.1574196520778606
+Chile,extreme_demand_severe_low_energy,2.314839304155721
+Chile,high_demand_baseline_energy,0.43403236952919777
+Chile,high_demand_low_energy,0.8680647390583955
+Chile,high_demand_severe_low_energy,1.736129478116791
+China,baseline_demand_baseline_energy,0.32520232612885797
+China,baseline_demand_low_energy,0.6504046522577159
+China,baseline_demand_severe_low_energy,1.3008093045154319
+China,extreme_demand_baseline_energy,0.6504046522577159
+China,extreme_demand_low_energy,1.3008093045154319
+China,extreme_demand_severe_low_energy,2.6016186090308637
+China,high_demand_baseline_energy,0.4878034891932869
+China,high_demand_low_energy,0.9756069783865738
+China,high_demand_severe_low_energy,1.9512139567731477
+Colombia,baseline_demand_baseline_energy,0.20093732846864487
+Colombia,baseline_demand_low_energy,0.40187465693728974
+Colombia,baseline_demand_severe_low_energy,0.8037493138745795
+Colombia,extreme_demand_baseline_energy,0.40187465693728974
+Colombia,extreme_demand_low_energy,0.8037493138745795
+Colombia,extreme_demand_severe_low_energy,1.607498627749159
+Colombia,high_demand_baseline_energy,0.30140599270296736
+Colombia,high_demand_low_energy,0.6028119854059347
+Colombia,high_demand_severe_low_energy,1.2056239708118694
+"Congo, Dem. Rep.",baseline_demand_baseline_energy,-1.1734386664599576
+"Congo, Dem. Rep.",baseline_demand_low_energy,-2.3468773329199153
+"Congo, Dem. Rep.",baseline_demand_severe_low_energy,-4.693754665839831
+"Congo, Dem. Rep.",extreme_demand_baseline_energy,-2.3468773329199153
+"Congo, Dem. Rep.",extreme_demand_low_energy,-4.693754665839831
+"Congo, Dem. Rep.",extreme_demand_severe_low_energy,-9.387509331679661
+"Congo, Dem. Rep.",high_demand_baseline_energy,-1.7601579996899366
+"Congo, Dem. Rep.",high_demand_low_energy,-3.520315999379873
+"Congo, Dem. Rep.",high_demand_severe_low_energy,-7.040631998759746
+"Congo, Rep.",baseline_demand_baseline_energy,-0.8113580801401241
+"Congo, Rep.",baseline_demand_low_energy,-1.6227161602802482
+"Congo, Rep.",baseline_demand_severe_low_energy,-3.2454323205604965
+"Congo, Rep.",extreme_demand_baseline_energy,-1.6227161602802482
+"Congo, Rep.",extreme_demand_low_energy,-3.2454323205604965
+"Congo, Rep.",extreme_demand_severe_low_energy,-6.490864641120993
+"Congo, Rep.",high_demand_baseline_energy,-1.2170371202101862
+"Congo, Rep.",high_demand_low_energy,-2.4340742404203723
+"Congo, Rep.",high_demand_severe_low_energy,-4.868148480840745
+Costa Rica,baseline_demand_baseline_energy,0.22691258392956598
+Costa Rica,baseline_demand_low_energy,0.45382516785913196
+Costa Rica,baseline_demand_severe_low_energy,0.9076503357182639
+Costa Rica,extreme_demand_baseline_energy,0.45382516785913196
+Costa Rica,extreme_demand_low_energy,0.9076503357182639
+Costa Rica,extreme_demand_severe_low_energy,1.8153006714365278
+Costa Rica,high_demand_baseline_energy,0.340368875894349
+Costa Rica,high_demand_low_energy,0.680737751788698
+Costa Rica,high_demand_severe_low_energy,1.361475503577396
+Cote d'Ivoire,baseline_demand_baseline_energy,-0.35378428579967613
+Cote d'Ivoire,baseline_demand_low_energy,-0.7075685715993523
+Cote d'Ivoire,baseline_demand_severe_low_energy,-1.4151371431987045
+Cote d'Ivoire,extreme_demand_baseline_energy,-0.7075685715993523
+Cote d'Ivoire,extreme_demand_low_energy,-1.4151371431987045
+Cote d'Ivoire,extreme_demand_severe_low_energy,-2.830274286397409
+Cote d'Ivoire,high_demand_baseline_energy,-0.5306764286995141
+Cote d'Ivoire,high_demand_low_energy,-1.0613528573990283
+Cote d'Ivoire,high_demand_severe_low_energy,-2.1227057147980566
+Croatia,baseline_demand_baseline_energy,0.18291489169785025
+Croatia,baseline_demand_low_energy,0.3658297833957005
+Croatia,baseline_demand_severe_low_energy,0.731659566791401
+Croatia,extreme_demand_baseline_energy,0.3658297833957005
+Croatia,extreme_demand_low_energy,0.731659566791401
+Croatia,extreme_demand_severe_low_energy,1.463319133582802
+Croatia,high_demand_baseline_energy,0.27437233754677537
+Croatia,high_demand_low_energy,0.5487446750935507
+Croatia,high_demand_severe_low_energy,1.0974893501871015
+Cuba,baseline_demand_baseline_energy,0.08057393802847683
+Cuba,baseline_demand_low_energy,0.16114787605695366
+Cuba,baseline_demand_severe_low_energy,0.3222957521139073
+Cuba,extreme_demand_baseline_energy,0.16114787605695366
+Cuba,extreme_demand_low_energy,0.3222957521139073
+Cuba,extreme_demand_severe_low_energy,0.6445915042278146
+Cuba,high_demand_baseline_energy,0.12086090704271524
+Cuba,high_demand_low_energy,0.24172181408543048
+Cuba,high_demand_severe_low_energy,0.48344362817086095
+Cyprus,baseline_demand_baseline_energy,0.25785142000320344
+Cyprus,baseline_demand_low_energy,0.5157028400064069
+Cyprus,baseline_demand_severe_low_energy,1.0314056800128137
+Cyprus,extreme_demand_baseline_energy,0.5157028400064069
+Cyprus,extreme_demand_low_energy,1.0314056800128137
+Cyprus,extreme_demand_severe_low_energy,2.0628113600256275
+Cyprus,high_demand_baseline_energy,0.3867771300048052
+Cyprus,high_demand_low_energy,0.7735542600096104
+Cyprus,high_demand_severe_low_energy,1.5471085200192207
+Czechia,baseline_demand_baseline_energy,0.2548353585816814
+Czechia,baseline_demand_low_energy,0.5096707171633628
+Czechia,baseline_demand_severe_low_energy,1.0193414343267255
+Czechia,extreme_demand_baseline_energy,0.5096707171633628
+Czechia,extreme_demand_low_energy,1.0193414343267255
+Czechia,extreme_demand_severe_low_energy,2.038682868653451
+Czechia,high_demand_baseline_energy,0.3822530378725221
+Czechia,high_demand_low_energy,0.7645060757450441
+Czechia,high_demand_severe_low_energy,1.5290121514900883
+Denmark,baseline_demand_baseline_energy,0.4015079277692051
+Denmark,baseline_demand_low_energy,0.8030158555384102
+Denmark,baseline_demand_severe_low_energy,1.6060317110768203
+Denmark,extreme_demand_baseline_energy,0.8030158555384102
+Denmark,extreme_demand_low_energy,1.6060317110768203
+Denmark,extreme_demand_severe_low_energy,3.2120634221536406
+Denmark,high_demand_baseline_energy,0.6022618916538076
+Denmark,high_demand_low_energy,1.2045237833076152
+Denmark,high_demand_severe_low_energy,2.4090475666152305
+Djibouti,baseline_demand_baseline_energy,-0.3927990935430946
+Djibouti,baseline_demand_low_energy,-0.7855981870861892
+Djibouti,baseline_demand_severe_low_energy,-1.5711963741723785
+Djibouti,extreme_demand_baseline_energy,-0.7855981870861892
+Djibouti,extreme_demand_low_energy,-1.5711963741723785
+Djibouti,extreme_demand_severe_low_energy,-3.142392748344757
+Djibouti,high_demand_baseline_energy,-0.589198640314642
+Djibouti,high_demand_low_energy,-1.178397280629284
+Djibouti,high_demand_severe_low_energy,-2.356794561258568
+Dominican Republic,baseline_demand_baseline_energy,0.17408277141235987
+Dominican Republic,baseline_demand_low_energy,0.34816554282471973
+Dominican Republic,baseline_demand_severe_low_energy,0.6963310856494395
+Dominican Republic,extreme_demand_baseline_energy,0.34816554282471973
+Dominican Republic,extreme_demand_low_energy,0.6963310856494395
+Dominican Republic,extreme_demand_severe_low_energy,1.392662171298879
+Dominican Republic,high_demand_baseline_energy,0.26112415711853976
+Dominican Republic,high_demand_low_energy,0.5222483142370795
+Dominican Republic,high_demand_severe_low_energy,1.044496628474159
+Ecuador,baseline_demand_baseline_energy,0.08806267803821174
+Ecuador,baseline_demand_low_energy,0.1761253560764235
+Ecuador,baseline_demand_severe_low_energy,0.352250712152847
+Ecuador,extreme_demand_baseline_energy,0.1761253560764235
+Ecuador,extreme_demand_low_energy,0.352250712152847
+Ecuador,extreme_demand_severe_low_energy,0.704501424305694
+Ecuador,high_demand_baseline_energy,0.13209401705731763
+Ecuador,high_demand_low_energy,0.26418803411463526
+Ecuador,high_demand_severe_low_energy,0.5283760682292705
+"Egypt, Arab Rep.",baseline_demand_baseline_energy,0.04548214624990561
+"Egypt, Arab Rep.",baseline_demand_low_energy,0.09096429249981122
+"Egypt, Arab Rep.",baseline_demand_severe_low_energy,0.18192858499962244
+"Egypt, Arab Rep.",extreme_demand_baseline_energy,0.09096429249981122
+"Egypt, Arab Rep.",extreme_demand_low_energy,0.18192858499962244
+"Egypt, Arab Rep.",extreme_demand_severe_low_energy,0.3638571699992449
+"Egypt, Arab Rep.",high_demand_baseline_energy,0.0682232193748584
+"Egypt, Arab Rep.",high_demand_low_energy,0.1364464387497168
+"Egypt, Arab Rep.",high_demand_severe_low_energy,0.2728928774994336
+El Salvador,baseline_demand_baseline_energy,-0.18533676589497655
+El Salvador,baseline_demand_low_energy,-0.3706735317899531
+El Salvador,baseline_demand_severe_low_energy,-0.7413470635799062
+El Salvador,extreme_demand_baseline_energy,-0.3706735317899531
+El Salvador,extreme_demand_low_energy,-0.7413470635799062
+El Salvador,extreme_demand_severe_low_energy,-1.4826941271598124
+El Salvador,high_demand_baseline_energy,-0.27800514884246486
+El Salvador,high_demand_low_energy,-0.5560102976849297
+El Salvador,high_demand_severe_low_energy,-1.1120205953698594
+Equatorial Guinea,baseline_demand_baseline_energy,-0.2223284969182934
+Equatorial Guinea,baseline_demand_low_energy,-0.4446569938365868
+Equatorial Guinea,baseline_demand_severe_low_energy,-0.8893139876731736
+Equatorial Guinea,extreme_demand_baseline_energy,-0.4446569938365868
+Equatorial Guinea,extreme_demand_low_energy,-0.8893139876731736
+Equatorial Guinea,extreme_demand_severe_low_energy,-1.7786279753463472
+Equatorial Guinea,high_demand_baseline_energy,-0.3334927453774401
+Equatorial Guinea,high_demand_low_energy,-0.6669854907548802
+Equatorial Guinea,high_demand_severe_low_energy,-1.3339709815097605
+Estonia,baseline_demand_baseline_energy,0.1926319891302102
+Estonia,baseline_demand_low_energy,0.3852639782604204
+Estonia,baseline_demand_severe_low_energy,0.7705279565208408
+Estonia,extreme_demand_baseline_energy,0.3852639782604204
+Estonia,extreme_demand_low_energy,0.7705279565208408
+Estonia,extreme_demand_severe_low_energy,1.5410559130416817
+Estonia,high_demand_baseline_energy,0.2889479836953153
+Estonia,high_demand_low_energy,0.5778959673906306
+Estonia,high_demand_severe_low_energy,1.1557919347812613
+Eswatini,baseline_demand_baseline_energy,-0.36888846493806643
+Eswatini,baseline_demand_low_energy,-0.7377769298761329
+Eswatini,baseline_demand_severe_low_energy,-1.4755538597522657
+Eswatini,extreme_demand_baseline_energy,-0.7377769298761329
+Eswatini,extreme_demand_low_energy,-1.4755538597522657
+Eswatini,extreme_demand_severe_low_energy,-2.9511077195045314
+Eswatini,high_demand_baseline_energy,-0.5533326974070996
+Eswatini,high_demand_low_energy,-1.1066653948141991
+Eswatini,high_demand_severe_low_energy,-2.2133307896283982
+Ethiopia,baseline_demand_baseline_energy,-0.9298598893166563
+Ethiopia,baseline_demand_low_energy,-1.8597197786333126
+Ethiopia,baseline_demand_severe_low_energy,-3.7194395572666252
+Ethiopia,extreme_demand_baseline_energy,-1.8597197786333126
+Ethiopia,extreme_demand_low_energy,-3.7194395572666252
+Ethiopia,extreme_demand_severe_low_energy,-7.4388791145332505
+Ethiopia,high_demand_baseline_energy,-1.3947898339749845
+Ethiopia,high_demand_low_energy,-2.789579667949969
+Ethiopia,high_demand_severe_low_energy,-5.579159335899938
+Finland,baseline_demand_baseline_energy,0.1870560262183746
+Finland,baseline_demand_low_energy,0.3741120524367492
+Finland,baseline_demand_severe_low_energy,0.7482241048734984
+Finland,extreme_demand_baseline_energy,0.3741120524367492
+Finland,extreme_demand_low_energy,0.7482241048734984
+Finland,extreme_demand_severe_low_energy,1.4964482097469969
+Finland,high_demand_baseline_energy,0.28058403932756193
+Finland,high_demand_low_energy,0.5611680786551239
+Finland,high_demand_severe_low_energy,1.1223361573102477
+France,baseline_demand_baseline_energy,0.37529116527190837
+France,baseline_demand_low_energy,0.7505823305438167
+France,baseline_demand_severe_low_energy,1.5011646610876335
+France,extreme_demand_baseline_energy,0.7505823305438167
+France,extreme_demand_low_energy,1.5011646610876335
+France,extreme_demand_severe_low_energy,3.002329322175267
+France,high_demand_baseline_energy,0.5629367479078626
+France,high_demand_low_energy,1.1258734958157253
+France,high_demand_severe_low_energy,2.2517469916314505
+Gabon,baseline_demand_baseline_energy,-0.038832719481946394
+Gabon,baseline_demand_low_energy,-0.07766543896389279
+Gabon,baseline_demand_severe_low_energy,-0.15533087792778558
+Gabon,extreme_demand_baseline_energy,-0.07766543896389279
+Gabon,extreme_demand_low_energy,-0.15533087792778558
+Gabon,extreme_demand_severe_low_energy,-0.31066175585557115
+Gabon,high_demand_baseline_energy,-0.05824907922291959
+Gabon,high_demand_low_energy,-0.11649815844583918
+Gabon,high_demand_severe_low_energy,-0.23299631689167835
+"Gambia, The",baseline_demand_baseline_energy,-0.8722341363915106
+"Gambia, The",baseline_demand_low_energy,-1.7444682727830212
+"Gambia, The",baseline_demand_severe_low_energy,-3.4889365455660424
+"Gambia, The",extreme_demand_baseline_energy,-1.7444682727830212
+"Gambia, The",extreme_demand_low_energy,-3.4889365455660424
+"Gambia, The",extreme_demand_severe_low_energy,-6.977873091132085
+"Gambia, The",high_demand_baseline_energy,-1.3083512045872658
+"Gambia, The",high_demand_low_energy,-2.6167024091745317
+"Gambia, The",high_demand_severe_low_energy,-5.233404818349063
+Georgia,baseline_demand_baseline_energy,-0.012938153346515328
+Georgia,baseline_demand_low_energy,-0.025876306693030655
+Georgia,baseline_demand_severe_low_energy,-0.05175261338606131
+Georgia,extreme_demand_baseline_energy,-0.025876306693030655
+Georgia,extreme_demand_low_energy,-0.05175261338606131
+Georgia,extreme_demand_severe_low_energy,-0.10350522677212262
+Georgia,high_demand_baseline_energy,-0.019407230019772983
+Georgia,high_demand_low_energy,-0.038814460039545966
+Georgia,high_demand_severe_low_energy,-0.07762892007909193
+Germany,baseline_demand_baseline_energy,0.4295224549146647
+Germany,baseline_demand_low_energy,0.8590449098293294
+Germany,baseline_demand_severe_low_energy,1.7180898196586587
+Germany,extreme_demand_baseline_energy,0.8590449098293294
+Germany,extreme_demand_low_energy,1.7180898196586587
+Germany,extreme_demand_severe_low_energy,3.4361796393173174
+Germany,high_demand_baseline_energy,0.6442836823719971
+Germany,high_demand_low_energy,1.2885673647439941
+Germany,high_demand_severe_low_energy,2.5771347294879883
+Ghana,baseline_demand_baseline_energy,-0.2719220459465133
+Ghana,baseline_demand_low_energy,-0.5438440918930266
+Ghana,baseline_demand_severe_low_energy,-1.0876881837860533
+Ghana,extreme_demand_baseline_energy,-0.5438440918930266
+Ghana,extreme_demand_low_energy,-1.0876881837860533
+Ghana,extreme_demand_severe_low_energy,-2.1753763675721065
+Ghana,high_demand_baseline_energy,-0.40788306891977
+Ghana,high_demand_low_energy,-0.81576613783954
+Ghana,high_demand_severe_low_energy,-1.63153227567908
+Greece,baseline_demand_baseline_energy,0.24585552990087303
+Greece,baseline_demand_low_energy,0.49171105980174606
+Greece,baseline_demand_severe_low_energy,0.9834221196034921
+Greece,extreme_demand_baseline_energy,0.49171105980174606
+Greece,extreme_demand_low_energy,0.9834221196034921
+Greece,extreme_demand_severe_low_energy,1.9668442392069843
+Greece,high_demand_baseline_energy,0.36878329485130956
+Greece,high_demand_low_energy,0.7375665897026191
+Greece,high_demand_severe_low_energy,1.4751331794052382
+Guatemala,baseline_demand_baseline_energy,-0.1212810970395198
+Guatemala,baseline_demand_low_energy,-0.2425621940790396
+Guatemala,baseline_demand_severe_low_energy,-0.4851243881580792
+Guatemala,extreme_demand_baseline_energy,-0.2425621940790396
+Guatemala,extreme_demand_low_energy,-0.4851243881580792
+Guatemala,extreme_demand_severe_low_energy,-0.9702487763161584
+Guatemala,high_demand_baseline_energy,-0.1819216455592797
+Guatemala,high_demand_low_energy,-0.3638432911185594
+Guatemala,high_demand_severe_low_energy,-0.7276865822371188
+Guinea,baseline_demand_baseline_energy,-0.8109285394346699
+Guinea,baseline_demand_low_energy,-1.6218570788693398
+Guinea,baseline_demand_severe_low_energy,-3.2437141577386797
+Guinea,extreme_demand_baseline_energy,-1.6218570788693398
+Guinea,extreme_demand_low_energy,-3.2437141577386797
+Guinea,extreme_demand_severe_low_energy,-6.487428315477359
+Guinea,high_demand_baseline_energy,-1.216392809152005
+Guinea,high_demand_low_energy,-2.43278561830401
+Guinea,high_demand_severe_low_energy,-4.86557123660802
+Guinea-Bissau,baseline_demand_baseline_energy,-1.1118583224713066
+Guinea-Bissau,baseline_demand_low_energy,-2.223716644942613
+Guinea-Bissau,baseline_demand_severe_low_energy,-4.447433289885226
+Guinea-Bissau,extreme_demand_baseline_energy,-2.223716644942613
+Guinea-Bissau,extreme_demand_low_energy,-4.447433289885226
+Guinea-Bissau,extreme_demand_severe_low_energy,-8.894866579770452
+Guinea-Bissau,high_demand_baseline_energy,-1.6677874837069595
+Guinea-Bissau,high_demand_low_energy,-3.335574967413919
+Guinea-Bissau,high_demand_severe_low_energy,-6.671149934827838
+Haiti,baseline_demand_baseline_energy,-0.6147349560241986
+Haiti,baseline_demand_low_energy,-1.2294699120483972
+Haiti,baseline_demand_severe_low_energy,-2.4589398240967943
+Haiti,extreme_demand_baseline_energy,-1.2294699120483972
+Haiti,extreme_demand_low_energy,-2.4589398240967943
+Haiti,extreme_demand_severe_low_energy,-4.917879648193589
+Haiti,high_demand_baseline_energy,-0.922102434036298
+Haiti,high_demand_low_energy,-1.844204868072596
+Haiti,high_demand_severe_low_energy,-3.688409736145192
+Honduras,baseline_demand_baseline_energy,-0.3318184059412094
+Honduras,baseline_demand_low_energy,-0.6636368118824189
+Honduras,baseline_demand_severe_low_energy,-1.3272736237648377
+Honduras,extreme_demand_baseline_energy,-0.6636368118824189
+Honduras,extreme_demand_low_energy,-1.3272736237648377
+Honduras,extreme_demand_severe_low_energy,-2.6545472475296754
+Honduras,high_demand_baseline_energy,-0.4977276089118141
+Honduras,high_demand_low_energy,-0.9954552178236282
+Honduras,high_demand_severe_low_energy,-1.9909104356472564
+"Hong Kong SAR, China",baseline_demand_baseline_energy,0.34199755160257433
+"Hong Kong SAR, China",baseline_demand_low_energy,0.6839951032051487
+"Hong Kong SAR, China",baseline_demand_severe_low_energy,1.3679902064102973
+"Hong Kong SAR, China",extreme_demand_baseline_energy,0.6839951032051487
+"Hong Kong SAR, China",extreme_demand_low_energy,1.3679902064102973
+"Hong Kong SAR, China",extreme_demand_severe_low_energy,2.7359804128205947
+"Hong Kong SAR, China",high_demand_baseline_energy,0.5129963274038615
+"Hong Kong SAR, China",high_demand_low_energy,1.025992654807723
+"Hong Kong SAR, China",high_demand_severe_low_energy,2.051985309615446
+Hungary,baseline_demand_baseline_energy,0.25427524506830074
+Hungary,baseline_demand_low_energy,0.5085504901366015
+Hungary,baseline_demand_severe_low_energy,1.017100980273203
+Hungary,extreme_demand_baseline_energy,0.5085504901366015
+Hungary,extreme_demand_low_energy,1.017100980273203
+Hungary,extreme_demand_severe_low_energy,2.034201960546406
+Hungary,high_demand_baseline_energy,0.3814128676024512
+Hungary,high_demand_low_energy,0.7628257352049024
+Hungary,high_demand_severe_low_energy,1.5256514704098048
+India,baseline_demand_baseline_energy,-0.1121114165794586
+India,baseline_demand_low_energy,-0.2242228331589172
+India,baseline_demand_severe_low_energy,-0.4484456663178344
+India,extreme_demand_baseline_energy,-0.2242228331589172
+India,extreme_demand_low_energy,-0.4484456663178344
+India,extreme_demand_severe_low_energy,-0.8968913326356688
+India,high_demand_baseline_energy,-0.1681671248691879
+India,high_demand_low_energy,-0.3363342497383758
+India,high_demand_severe_low_energy,-0.6726684994767516
+Indonesia,baseline_demand_baseline_energy,0.059267139937638824
+Indonesia,baseline_demand_low_energy,0.11853427987527765
+Indonesia,baseline_demand_severe_low_energy,0.2370685597505553
+Indonesia,extreme_demand_baseline_energy,0.11853427987527765
+Indonesia,extreme_demand_low_energy,0.2370685597505553
+Indonesia,extreme_demand_severe_low_energy,0.4741371195011106
+Indonesia,high_demand_baseline_energy,0.08890070990645821
+Indonesia,high_demand_low_energy,0.17780141981291642
+Indonesia,high_demand_severe_low_energy,0.35560283962583283
+"Iran, Islamic Rep.",baseline_demand_baseline_energy,0.1450268369390586
+"Iran, Islamic Rep.",baseline_demand_low_energy,0.2900536738781172
+"Iran, Islamic Rep.",baseline_demand_severe_low_energy,0.5801073477562344
+"Iran, Islamic Rep.",extreme_demand_baseline_energy,0.2900536738781172
+"Iran, Islamic Rep.",extreme_demand_low_energy,0.5801073477562344
+"Iran, Islamic Rep.",extreme_demand_severe_low_energy,1.1602146955124688
+"Iran, Islamic Rep.",high_demand_baseline_energy,0.2175402554085879
+"Iran, Islamic Rep.",high_demand_low_energy,0.4350805108171758
+"Iran, Islamic Rep.",high_demand_severe_low_energy,0.8701610216343516
+Iraq,baseline_demand_baseline_energy,-0.04559940553442509
+Iraq,baseline_demand_low_energy,-0.09119881106885018
+Iraq,baseline_demand_severe_low_energy,-0.18239762213770036
+Iraq,extreme_demand_baseline_energy,-0.09119881106885018
+Iraq,extreme_demand_low_energy,-0.18239762213770036
+Iraq,extreme_demand_severe_low_energy,-0.3647952442754007
+Iraq,high_demand_baseline_energy,-0.06839910830163763
+Iraq,high_demand_low_energy,-0.13679821660327526
+Iraq,high_demand_severe_low_energy,-0.2735964332065505
+Ireland,baseline_demand_baseline_energy,0.41247472048491396
+Ireland,baseline_demand_low_energy,0.8249494409698279
+Ireland,baseline_demand_severe_low_energy,1.6498988819396558
+Ireland,extreme_demand_baseline_energy,0.8249494409698279
+Ireland,extreme_demand_low_energy,1.6498988819396558
+Ireland,extreme_demand_severe_low_energy,3.2997977638793117
+Ireland,high_demand_baseline_energy,0.6187120807273709
+Ireland,high_demand_low_energy,1.2374241614547419
+Ireland,high_demand_severe_low_energy,2.4748483229094838
+Israel,baseline_demand_baseline_energy,0.3196410003283113
+Israel,baseline_demand_low_energy,0.6392820006566226
+Israel,baseline_demand_severe_low_energy,1.278564001313245
+Israel,extreme_demand_baseline_energy,0.6392820006566226
+Israel,extreme_demand_low_energy,1.278564001313245
+Israel,extreme_demand_severe_low_energy,2.55712800262649
+Israel,high_demand_baseline_energy,0.4794615004924669
+Israel,high_demand_low_energy,0.9589230009849338
+Israel,high_demand_severe_low_energy,1.9178460019698675
+Italy,baseline_demand_baseline_energy,0.3782750430665741
+Italy,baseline_demand_low_energy,0.7565500861331482
+Italy,baseline_demand_severe_low_energy,1.5131001722662965
+Italy,extreme_demand_baseline_energy,0.7565500861331482
+Italy,extreme_demand_low_energy,1.5131001722662965
+Italy,extreme_demand_severe_low_energy,3.026200344532593
+Italy,high_demand_baseline_energy,0.5674125645998612
+Italy,high_demand_low_energy,1.1348251291997224
+Italy,high_demand_severe_low_energy,2.269650258399445
+Jamaica,baseline_demand_baseline_energy,-0.010927991904147633
+Jamaica,baseline_demand_low_energy,-0.021855983808295266
+Jamaica,baseline_demand_severe_low_energy,-0.04371196761659053
+Jamaica,extreme_demand_baseline_energy,-0.021855983808295266
+Jamaica,extreme_demand_low_energy,-0.04371196761659053
+Jamaica,extreme_demand_severe_low_energy,-0.08742393523318107
+Jamaica,high_demand_baseline_energy,-0.016391987856221448
+Jamaica,high_demand_low_energy,-0.032783975712442896
+Jamaica,high_demand_severe_low_energy,-0.06556795142488579
+Japan,baseline_demand_baseline_energy,0.3688475289519477
+Japan,baseline_demand_low_energy,0.7376950579038954
+Japan,baseline_demand_severe_low_energy,1.475390115807791
+Japan,extreme_demand_baseline_energy,0.7376950579038954
+Japan,extreme_demand_low_energy,1.475390115807791
+Japan,extreme_demand_severe_low_energy,2.950780231615582
+Japan,high_demand_baseline_energy,0.5532712934279216
+Japan,high_demand_low_energy,1.1065425868558432
+Japan,high_demand_severe_low_energy,2.2130851737116863
+Jordan,baseline_demand_baseline_energy,0.034750136222615566
+Jordan,baseline_demand_low_energy,0.06950027244523113
+Jordan,baseline_demand_severe_low_energy,0.13900054489046226
+Jordan,extreme_demand_baseline_energy,0.06950027244523113
+Jordan,extreme_demand_low_energy,0.13900054489046226
+Jordan,extreme_demand_severe_low_energy,0.2780010897809245
+Jordan,high_demand_baseline_energy,0.052125204333923356
+Jordan,high_demand_low_energy,0.10425040866784671
+Jordan,high_demand_severe_low_energy,0.20850081733569342
+Kazakhstan,baseline_demand_baseline_energy,0.19237014209761466
+Kazakhstan,baseline_demand_low_energy,0.3847402841952293
+Kazakhstan,baseline_demand_severe_low_energy,0.7694805683904586
+Kazakhstan,extreme_demand_baseline_energy,0.3847402841952293
+Kazakhstan,extreme_demand_low_energy,0.7694805683904586
+Kazakhstan,extreme_demand_severe_low_energy,1.5389611367809173
+Kazakhstan,high_demand_baseline_energy,0.288555213146422
+Kazakhstan,high_demand_low_energy,0.577110426292844
+Kazakhstan,high_demand_severe_low_energy,1.154220852585688
+Kenya,baseline_demand_baseline_energy,-0.6100749065217191
+Kenya,baseline_demand_low_energy,-1.2201498130434383
+Kenya,baseline_demand_severe_low_energy,-2.4402996260868766
+Kenya,extreme_demand_baseline_energy,-1.2201498130434383
+Kenya,extreme_demand_low_energy,-2.4402996260868766
+Kenya,extreme_demand_severe_low_energy,-4.880599252173753
+Kenya,high_demand_baseline_energy,-0.9151123597825788
+Kenya,high_demand_low_energy,-1.8302247195651575
+Kenya,high_demand_severe_low_energy,-3.660449439130315
+"Korea, Rep.",baseline_demand_baseline_energy,0.27335988598871064
+"Korea, Rep.",baseline_demand_low_energy,0.5467197719774213
+"Korea, Rep.",baseline_demand_severe_low_energy,1.0934395439548426
+"Korea, Rep.",extreme_demand_baseline_energy,0.5467197719774213
+"Korea, Rep.",extreme_demand_low_energy,1.0934395439548426
+"Korea, Rep.",extreme_demand_severe_low_energy,2.186879087909685
+"Korea, Rep.",high_demand_baseline_energy,0.4100398289830659
+"Korea, Rep.",high_demand_low_energy,0.8200796579661318
+"Korea, Rep.",high_demand_severe_low_energy,1.6401593159322636
+Kosovo,baseline_demand_baseline_energy,-0.025745218628078402
+Kosovo,baseline_demand_low_energy,-0.051490437256156804
+Kosovo,baseline_demand_severe_low_energy,-0.10298087451231361
+Kosovo,extreme_demand_baseline_energy,-0.051490437256156804
+Kosovo,extreme_demand_low_energy,-0.10298087451231361
+Kosovo,extreme_demand_severe_low_energy,-0.20596174902462722
+Kosovo,high_demand_baseline_energy,-0.03861782794211761
+Kosovo,high_demand_low_energy,-0.07723565588423521
+Kosovo,high_demand_severe_low_energy,-0.15447131176847043
+Kuwait,baseline_demand_baseline_energy,0.16227989099171686
+Kuwait,baseline_demand_low_energy,0.3245597819834337
+Kuwait,baseline_demand_severe_low_energy,0.6491195639668674
+Kuwait,extreme_demand_baseline_energy,0.3245597819834337
+Kuwait,extreme_demand_low_energy,0.6491195639668674
+Kuwait,extreme_demand_severe_low_energy,1.2982391279337349
+Kuwait,high_demand_baseline_energy,0.24341983648757534
+Kuwait,high_demand_low_energy,0.4868396729751507
+Kuwait,high_demand_severe_low_energy,0.9736793459503014
+Kyrgyz Republic,baseline_demand_baseline_energy,-0.2717883514574405
+Kyrgyz Republic,baseline_demand_low_energy,-0.543576702914881
+Kyrgyz Republic,baseline_demand_severe_low_energy,-1.087153405829762
+Kyrgyz Republic,extreme_demand_baseline_energy,-0.543576702914881
+Kyrgyz Republic,extreme_demand_low_energy,-1.087153405829762
+Kyrgyz Republic,extreme_demand_severe_low_energy,-2.174306811659524
+Kyrgyz Republic,high_demand_baseline_energy,-0.4076825271861607
+Kyrgyz Republic,high_demand_low_energy,-0.8153650543723214
+Kyrgyz Republic,high_demand_severe_low_energy,-1.6307301087446429
+Lao PDR,baseline_demand_baseline_energy,-0.38036717303695494
+Lao PDR,baseline_demand_low_energy,-0.7607343460739099
+Lao PDR,baseline_demand_severe_low_energy,-1.5214686921478198
+Lao PDR,extreme_demand_baseline_energy,-0.7607343460739099
+Lao PDR,extreme_demand_low_energy,-1.5214686921478198
+Lao PDR,extreme_demand_severe_low_energy,-3.0429373842956395
+Lao PDR,high_demand_baseline_energy,-0.5705507595554324
+Lao PDR,high_demand_low_energy,-1.1411015191108649
+Lao PDR,high_demand_severe_low_energy,-2.2822030382217298
+Latvia,baseline_demand_baseline_energy,0.2153474417929763
+Latvia,baseline_demand_low_energy,0.4306948835859526
+Latvia,baseline_demand_severe_low_energy,0.8613897671719052
+Latvia,extreme_demand_baseline_energy,0.4306948835859526
+Latvia,extreme_demand_low_energy,0.8613897671719052
+Latvia,extreme_demand_severe_low_energy,1.7227795343438104
+Latvia,high_demand_baseline_energy,0.32302116268946446
+Latvia,high_demand_low_energy,0.6460423253789289
+Latvia,high_demand_severe_low_energy,1.2920846507578578
+Lebanon,baseline_demand_baseline_energy,0.08887945245267243
+Lebanon,baseline_demand_low_energy,0.17775890490534485
+Lebanon,baseline_demand_severe_low_energy,0.3555178098106897
+Lebanon,extreme_demand_baseline_energy,0.17775890490534485
+Lebanon,extreme_demand_low_energy,0.3555178098106897
+Lebanon,extreme_demand_severe_low_energy,0.7110356196213794
+Lebanon,high_demand_baseline_energy,0.13331917867900864
+Lebanon,high_demand_low_energy,0.2666383573580173
+Lebanon,high_demand_severe_low_energy,0.5332767147160346
+Lesotho,baseline_demand_baseline_energy,-0.6932268876025061
+Lesotho,baseline_demand_low_energy,-1.3864537752050121
+Lesotho,baseline_demand_severe_low_energy,-2.7729075504100242
+Lesotho,extreme_demand_baseline_energy,-1.3864537752050121
+Lesotho,extreme_demand_low_energy,-2.7729075504100242
+Lesotho,extreme_demand_severe_low_energy,-5.5458151008200485
+Lesotho,high_demand_baseline_energy,-1.039840331403759
+Lesotho,high_demand_low_energy,-2.079680662807518
+Lesotho,high_demand_severe_low_energy,-4.159361325615036
+Liberia,baseline_demand_baseline_energy,-1.0150090124990643
+Liberia,baseline_demand_low_energy,-2.0300180249981286
+Liberia,baseline_demand_severe_low_energy,-4.060036049996257
+Liberia,extreme_demand_baseline_energy,-2.0300180249981286
+Liberia,extreme_demand_low_energy,-4.060036049996257
+Liberia,extreme_demand_severe_low_energy,-8.120072099992514
+Liberia,high_demand_baseline_energy,-1.5225135187485963
+Liberia,high_demand_low_energy,-3.0450270374971926
+Liberia,high_demand_severe_low_energy,-6.090054074994385
+Libya,baseline_demand_baseline_energy,0.029394884942372412
+Libya,baseline_demand_low_energy,0.058789769884744825
+Libya,baseline_demand_severe_low_energy,0.11757953976948965
+Libya,extreme_demand_baseline_energy,0.058789769884744825
+Libya,extreme_demand_low_energy,0.11757953976948965
+Libya,extreme_demand_severe_low_energy,0.2351590795389793
+Libya,high_demand_baseline_energy,0.04409232741355861
+Libya,high_demand_low_energy,0.08818465482711722
+Libya,high_demand_severe_low_energy,0.17636930965423445
+Lithuania,baseline_demand_baseline_energy,0.2252504009702175
+Lithuania,baseline_demand_low_energy,0.450500801940435
+Lithuania,baseline_demand_severe_low_energy,0.90100160388087
+Lithuania,extreme_demand_baseline_energy,0.450500801940435
+Lithuania,extreme_demand_low_energy,0.90100160388087
+Lithuania,extreme_demand_severe_low_energy,1.80200320776174
+Lithuania,high_demand_baseline_energy,0.33787560145532625
+Lithuania,high_demand_low_energy,0.6757512029106525
+Lithuania,high_demand_severe_low_energy,1.351502405821305
+Madagascar,baseline_demand_baseline_energy,-1.451131208016433
+Madagascar,baseline_demand_low_energy,-2.902262416032866
+Madagascar,baseline_demand_severe_low_energy,-5.804524832065732
+Madagascar,extreme_demand_baseline_energy,-2.902262416032866
+Madagascar,extreme_demand_low_energy,-5.804524832065732
+Madagascar,extreme_demand_severe_low_energy,-11.609049664131463
+Madagascar,high_demand_baseline_energy,-2.176696812024649
+Madagascar,high_demand_low_energy,-4.353393624049298
+Madagascar,high_demand_severe_low_energy,-8.706787248098596
+Malawi,baseline_demand_baseline_energy,-1.2382314510448649
+Malawi,baseline_demand_low_energy,-2.4764629020897297
+Malawi,baseline_demand_severe_low_energy,-4.9529258041794595
+Malawi,extreme_demand_baseline_energy,-2.4764629020897297
+Malawi,extreme_demand_low_energy,-4.9529258041794595
+Malawi,extreme_demand_severe_low_energy,-9.905851608358919
+Malawi,high_demand_baseline_energy,-1.8573471765672978
+Malawi,high_demand_low_energy,-3.7146943531345955
+Malawi,high_demand_severe_low_energy,-7.429388706269191
+Malaysia,baseline_demand_baseline_energy,0.23960149707756523
+Malaysia,baseline_demand_low_energy,0.47920299415513046
+Malaysia,baseline_demand_severe_low_energy,0.9584059883102609
+Malaysia,extreme_demand_baseline_energy,0.47920299415513046
+Malaysia,extreme_demand_low_energy,0.9584059883102609
+Malaysia,extreme_demand_severe_low_energy,1.9168119766205218
+Malaysia,high_demand_baseline_energy,0.3594022456163479
+Malaysia,high_demand_low_energy,0.7188044912326959
+Malaysia,high_demand_severe_low_energy,1.4376089824653917
+Mali,baseline_demand_baseline_energy,-0.7629923738370422
+Mali,baseline_demand_low_energy,-1.5259847476740844
+Mali,baseline_demand_severe_low_energy,-3.051969495348169
+Mali,extreme_demand_baseline_energy,-1.5259847476740844
+Mali,extreme_demand_low_energy,-3.051969495348169
+Mali,extreme_demand_severe_low_energy,-6.103938990696338
+Mali,high_demand_baseline_energy,-1.1444885607555633
+Mali,high_demand_low_energy,-2.2889771215111265
+Mali,high_demand_severe_low_energy,-4.577954243022253
+Mauritania,baseline_demand_baseline_energy,-0.6559691882146357
+Mauritania,baseline_demand_low_energy,-1.3119383764292714
+Mauritania,baseline_demand_severe_low_energy,-2.6238767528585427
+Mauritania,extreme_demand_baseline_energy,-1.3119383764292714
+Mauritania,extreme_demand_low_energy,-2.6238767528585427
+Mauritania,extreme_demand_severe_low_energy,-5.247753505717085
+Mauritania,high_demand_baseline_energy,-0.9839537823219533
+Mauritania,high_demand_low_energy,-1.9679075646439066
+Mauritania,high_demand_severe_low_energy,-3.935815129287813
+Mauritius,baseline_demand_baseline_energy,0.021947379274647398
+Mauritius,baseline_demand_low_energy,0.043894758549294796
+Mauritius,baseline_demand_severe_low_energy,0.08778951709858959
+Mauritius,extreme_demand_baseline_energy,0.043894758549294796
+Mauritius,extreme_demand_low_energy,0.08778951709858959
+Mauritius,extreme_demand_severe_low_energy,0.17557903419717918
+Mauritius,high_demand_baseline_energy,0.032921068911971094
+Mauritius,high_demand_low_energy,0.06584213782394219
+Mauritius,high_demand_severe_low_energy,0.13168427564788437
+Mexico,baseline_demand_baseline_energy,0.3251960335750674
+Mexico,baseline_demand_low_energy,0.6503920671501348
+Mexico,baseline_demand_severe_low_energy,1.3007841343002695
+Mexico,extreme_demand_baseline_energy,0.6503920671501348
+Mexico,extreme_demand_low_energy,1.3007841343002695
+Mexico,extreme_demand_severe_low_energy,2.601568268600539
+Mexico,high_demand_baseline_energy,0.4877940503626011
+Mexico,high_demand_low_energy,0.9755881007252022
+Mexico,high_demand_severe_low_energy,1.9511762014504044
+Moldova,baseline_demand_baseline_energy,-0.04348792958481438
+Moldova,baseline_demand_low_energy,-0.08697585916962876
+Moldova,baseline_demand_severe_low_energy,-0.17395171833925752
+Moldova,extreme_demand_baseline_energy,-0.08697585916962876
+Moldova,extreme_demand_low_energy,-0.17395171833925752
+Moldova,extreme_demand_severe_low_energy,-0.34790343667851503
+Moldova,high_demand_baseline_energy,-0.06523189437722157
+Moldova,high_demand_low_energy,-0.13046378875444314
+Moldova,high_demand_severe_low_energy,-0.2609275775088863
+Mongolia,baseline_demand_baseline_energy,-0.17300029533174227
+Mongolia,baseline_demand_low_energy,-0.34600059066348454
+Mongolia,baseline_demand_severe_low_energy,-0.6920011813269691
+Mongolia,extreme_demand_baseline_energy,-0.34600059066348454
+Mongolia,extreme_demand_low_energy,-0.6920011813269691
+Mongolia,extreme_demand_severe_low_energy,-1.3840023626539382
+Mongolia,high_demand_baseline_energy,-0.2595004429976134
+Mongolia,high_demand_low_energy,-0.5190008859952268
+Mongolia,high_demand_severe_low_energy,-1.0380017719904535
+Morocco,baseline_demand_baseline_energy,0.10296737541516496
+Morocco,baseline_demand_low_energy,0.20593475083032992
+Morocco,baseline_demand_severe_low_energy,0.41186950166065983
+Morocco,extreme_demand_baseline_energy,0.20593475083032992
+Morocco,extreme_demand_low_energy,0.41186950166065983
+Morocco,extreme_demand_severe_low_energy,0.8237390033213197
+Morocco,high_demand_baseline_energy,0.15445106312274745
+Morocco,high_demand_low_energy,0.3089021262454949
+Morocco,high_demand_severe_low_energy,0.6178042524909898
+Mozambique,baseline_demand_baseline_energy,-1.2262630306001912
+Mozambique,baseline_demand_low_energy,-2.4525260612003823
+Mozambique,baseline_demand_severe_low_energy,-4.905052122400765
+Mozambique,extreme_demand_baseline_energy,-2.4525260612003823
+Mozambique,extreme_demand_low_energy,-4.905052122400765
+Mozambique,extreme_demand_severe_low_energy,-9.81010424480153
+Mozambique,high_demand_baseline_energy,-1.8393945459002867
+Mozambique,high_demand_low_energy,-3.6787890918005735
+Mozambique,high_demand_severe_low_energy,-7.357578183601147
+Myanmar,baseline_demand_baseline_energy,-0.6663449462297434
+Myanmar,baseline_demand_low_energy,-1.3326898924594868
+Myanmar,baseline_demand_severe_low_energy,-2.6653797849189735
+Myanmar,extreme_demand_baseline_energy,-1.3326898924594868
+Myanmar,extreme_demand_low_energy,-2.6653797849189735
+Myanmar,extreme_demand_severe_low_energy,-5.330759569837947
+Myanmar,high_demand_baseline_energy,-0.999517419344615
+Myanmar,high_demand_low_energy,-1.99903483868923
+Myanmar,high_demand_severe_low_energy,-3.99806967737846
+Namibia,baseline_demand_baseline_energy,-0.2131227742838481
+Namibia,baseline_demand_low_energy,-0.4262455485676962
+Namibia,baseline_demand_severe_low_energy,-0.8524910971353924
+Namibia,extreme_demand_baseline_energy,-0.4262455485676962
+Namibia,extreme_demand_low_energy,-0.8524910971353924
+Namibia,extreme_demand_severe_low_energy,-1.7049821942707848
+Namibia,high_demand_baseline_energy,-0.3196841614257721
+Namibia,high_demand_low_energy,-0.6393683228515442
+Namibia,high_demand_severe_low_energy,-1.2787366457030884
+Nepal,baseline_demand_baseline_energy,-0.6193578491433238
+Nepal,baseline_demand_low_energy,-1.2387156982866476
+Nepal,baseline_demand_severe_low_energy,-2.4774313965732953
+Nepal,extreme_demand_baseline_energy,-1.2387156982866476
+Nepal,extreme_demand_low_energy,-2.4774313965732953
+Nepal,extreme_demand_severe_low_energy,-4.9548627931465905
+Nepal,high_demand_baseline_energy,-0.9290367737149857
+Nepal,high_demand_low_energy,-1.8580735474299714
+Nepal,high_demand_severe_low_energy,-3.716147094859943
+Netherlands,baseline_demand_baseline_energy,0.39264945799940215
+Netherlands,baseline_demand_low_energy,0.7852989159988043
+Netherlands,baseline_demand_severe_low_energy,1.5705978319976086
+Netherlands,extreme_demand_baseline_energy,0.7852989159988043
+Netherlands,extreme_demand_low_energy,1.5705978319976086
+Netherlands,extreme_demand_severe_low_energy,3.141195663995217
+Netherlands,high_demand_baseline_energy,0.5889741869991033
+Netherlands,high_demand_low_energy,1.1779483739982066
+Netherlands,high_demand_severe_low_energy,2.3558967479964132
+New Zealand,baseline_demand_baseline_energy,0.2704982639209276
+New Zealand,baseline_demand_low_energy,0.5409965278418551
+New Zealand,baseline_demand_severe_low_energy,1.0819930556837103
+New Zealand,extreme_demand_baseline_energy,0.5409965278418551
+New Zealand,extreme_demand_low_energy,1.0819930556837103
+New Zealand,extreme_demand_severe_low_energy,2.1639861113674206
+New Zealand,high_demand_baseline_energy,0.40574739588139136
+New Zealand,high_demand_low_energy,0.8114947917627827
+New Zealand,high_demand_severe_low_energy,1.6229895835255654
+Nicaragua,baseline_demand_baseline_energy,-0.4414764457909454
+Nicaragua,baseline_demand_low_energy,-0.8829528915818908
+Nicaragua,baseline_demand_severe_low_energy,-1.7659057831637817
+Nicaragua,extreme_demand_baseline_energy,-0.8829528915818908
+Nicaragua,extreme_demand_low_energy,-1.7659057831637817
+Nicaragua,extreme_demand_severe_low_energy,-3.5318115663275633
+Nicaragua,high_demand_baseline_energy,-0.6622146686864181
+Nicaragua,high_demand_low_energy,-1.3244293373728362
+Nicaragua,high_demand_severe_low_energy,-2.6488586747456724
+Niger,baseline_demand_baseline_energy,-1.4487237967837248
+Niger,baseline_demand_low_energy,-2.8974475935674495
+Niger,baseline_demand_severe_low_energy,-5.794895187134899
+Niger,extreme_demand_baseline_energy,-2.8974475935674495
+Niger,extreme_demand_low_energy,-5.794895187134899
+Niger,extreme_demand_severe_low_energy,-11.589790374269798
+Niger,high_demand_baseline_energy,-2.1730856951755873
+Niger,high_demand_low_energy,-4.3461713903511745
+Niger,high_demand_severe_low_energy,-8.692342780702349
+Nigeria,baseline_demand_baseline_energy,-0.28816774088197966
+Nigeria,baseline_demand_low_energy,-0.5763354817639593
+Nigeria,baseline_demand_severe_low_energy,-1.1526709635279186
+Nigeria,extreme_demand_baseline_energy,-0.5763354817639593
+Nigeria,extreme_demand_low_energy,-1.1526709635279186
+Nigeria,extreme_demand_severe_low_energy,-2.3053419270558373
+Nigeria,high_demand_baseline_energy,-0.4322516113229695
+Nigeria,high_demand_low_energy,-0.864503222645939
+Nigeria,high_demand_severe_low_energy,-1.729006445291878
+Norway,baseline_demand_baseline_energy,0.1599687533767283
+Norway,baseline_demand_low_energy,0.3199375067534566
+Norway,baseline_demand_severe_low_energy,0.6398750135069132
+Norway,extreme_demand_baseline_energy,0.3199375067534566
+Norway,extreme_demand_low_energy,0.6398750135069132
+Norway,extreme_demand_severe_low_energy,1.2797500270138265
+Norway,high_demand_baseline_energy,0.23995313006509247
+Norway,high_demand_low_energy,0.47990626013018495
+Norway,high_demand_severe_low_energy,0.9598125202603699
+Oman,baseline_demand_baseline_energy,0.18717284629473527
+Oman,baseline_demand_low_energy,0.37434569258947054
+Oman,baseline_demand_severe_low_energy,0.7486913851789411
+Oman,extreme_demand_baseline_energy,0.37434569258947054
+Oman,extreme_demand_low_energy,0.7486913851789411
+Oman,extreme_demand_severe_low_energy,1.4973827703578821
+Oman,high_demand_baseline_energy,0.2807592694421029
+Oman,high_demand_low_energy,0.5615185388842058
+Oman,high_demand_severe_low_energy,1.1230370777684116
+Pakistan,baseline_demand_baseline_energy,-0.643573152644121
+Pakistan,baseline_demand_low_energy,-1.287146305288242
+Pakistan,baseline_demand_severe_low_energy,-2.574292610576484
+Pakistan,extreme_demand_baseline_energy,-1.287146305288242
+Pakistan,extreme_demand_low_energy,-2.574292610576484
+Pakistan,extreme_demand_severe_low_energy,-5.148585221152968
+Pakistan,high_demand_baseline_energy,-0.9653597289661814
+Pakistan,high_demand_low_energy,-1.9307194579323628
+Pakistan,high_demand_severe_low_energy,-3.8614389158647255
+Panama,baseline_demand_baseline_energy,0.16054361774719458
+Panama,baseline_demand_low_energy,0.32108723549438917
+Panama,baseline_demand_severe_low_energy,0.6421744709887783
+Panama,extreme_demand_baseline_energy,0.32108723549438917
+Panama,extreme_demand_low_energy,0.6421744709887783
+Panama,extreme_demand_severe_low_energy,1.2843489419775567
+Panama,high_demand_baseline_energy,0.2408154266207919
+Panama,high_demand_low_energy,0.4816308532415838
+Panama,high_demand_severe_low_energy,0.9632617064831676
+Papua New Guinea,baseline_demand_baseline_energy,-0.8268765448610406
+Papua New Guinea,baseline_demand_low_energy,-1.6537530897220811
+Papua New Guinea,baseline_demand_severe_low_energy,-3.3075061794441623
+Papua New Guinea,extreme_demand_baseline_energy,-1.6537530897220811
+Papua New Guinea,extreme_demand_low_energy,-3.3075061794441623
+Papua New Guinea,extreme_demand_severe_low_energy,-6.6150123588883245
+Papua New Guinea,high_demand_baseline_energy,-1.2403148172915608
+Papua New Guinea,high_demand_low_energy,-2.4806296345831216
+Papua New Guinea,high_demand_severe_low_energy,-4.961259269166243
+Paraguay,baseline_demand_baseline_energy,0.040123690764735466
+Paraguay,baseline_demand_low_energy,0.08024738152947093
+Paraguay,baseline_demand_severe_low_energy,0.16049476305894186
+Paraguay,extreme_demand_baseline_energy,0.08024738152947093
+Paraguay,extreme_demand_low_energy,0.16049476305894186
+Paraguay,extreme_demand_severe_low_energy,0.32098952611788373
+Paraguay,high_demand_baseline_energy,0.0601855361471032
+Paraguay,high_demand_low_energy,0.1203710722942064
+Paraguay,high_demand_severe_low_energy,0.2407421445884128
+Peru,baseline_demand_baseline_energy,0.14111433389218328
+Peru,baseline_demand_low_energy,0.28222866778436656
+Peru,baseline_demand_severe_low_energy,0.5644573355687331
+Peru,extreme_demand_baseline_energy,0.28222866778436656
+Peru,extreme_demand_low_energy,0.5644573355687331
+Peru,extreme_demand_severe_low_energy,1.1289146711374662
+Peru,high_demand_baseline_energy,0.21167150083827493
+Peru,high_demand_low_energy,0.42334300167654987
+Peru,high_demand_severe_low_energy,0.8466860033530997
+Philippines,baseline_demand_baseline_energy,0.01774002552843503
+Philippines,baseline_demand_low_energy,0.03548005105687006
+Philippines,baseline_demand_severe_low_energy,0.07096010211374013
+Philippines,extreme_demand_baseline_energy,0.03548005105687006
+Philippines,extreme_demand_low_energy,0.07096010211374013
+Philippines,extreme_demand_severe_low_energy,0.14192020422748025
+Philippines,high_demand_baseline_energy,0.026610038292652554
+Philippines,high_demand_low_energy,0.05322007658530511
+Philippines,high_demand_severe_low_energy,0.10644015317061022
+Poland,baseline_demand_baseline_energy,0.3108705653732405
+Poland,baseline_demand_low_energy,0.621741130746481
+Poland,baseline_demand_severe_low_energy,1.243482261492962
+Poland,extreme_demand_baseline_energy,0.621741130746481
+Poland,extreme_demand_low_energy,1.243482261492962
+Poland,extreme_demand_severe_low_energy,2.486964522985924
+Poland,high_demand_baseline_energy,0.46630584805986064
+Poland,high_demand_low_energy,0.9326116961197213
+Poland,high_demand_severe_low_energy,1.8652233922394426
+Portugal,baseline_demand_baseline_energy,0.2721254758700675
+Portugal,baseline_demand_low_energy,0.544250951740135
+Portugal,baseline_demand_severe_low_energy,1.08850190348027
+Portugal,extreme_demand_baseline_energy,0.544250951740135
+Portugal,extreme_demand_low_energy,1.08850190348027
+Portugal,extreme_demand_severe_low_energy,2.17700380696054
+Portugal,high_demand_baseline_energy,0.4081882138051013
+Portugal,high_demand_low_energy,0.8163764276102026
+Portugal,high_demand_severe_low_energy,1.6327528552204051
+Puerto Rico (US),baseline_demand_baseline_energy,0.18509215631347123
+Puerto Rico (US),baseline_demand_low_energy,0.37018431262694246
+Puerto Rico (US),baseline_demand_severe_low_energy,0.7403686252538849
+Puerto Rico (US),extreme_demand_baseline_energy,0.37018431262694246
+Puerto Rico (US),extreme_demand_low_energy,0.7403686252538849
+Puerto Rico (US),extreme_demand_severe_low_energy,1.4807372505077698
+Puerto Rico (US),high_demand_baseline_energy,0.2776382344702068
+Puerto Rico (US),high_demand_low_energy,0.5552764689404136
+Puerto Rico (US),high_demand_severe_low_energy,1.1105529378808272
+Qatar,baseline_demand_baseline_energy,0.19365718374774818
+Qatar,baseline_demand_low_energy,0.38731436749549636
+Qatar,baseline_demand_severe_low_energy,0.7746287349909927
+Qatar,extreme_demand_baseline_energy,0.38731436749549636
+Qatar,extreme_demand_low_energy,0.7746287349909927
+Qatar,extreme_demand_severe_low_energy,1.5492574699819854
+Qatar,high_demand_baseline_energy,0.29048577562162226
+Qatar,high_demand_low_energy,0.5809715512432445
+Qatar,high_demand_severe_low_energy,1.161943102486489
+Romania,baseline_demand_baseline_energy,0.25415341187319695
+Romania,baseline_demand_low_energy,0.5083068237463939
+Romania,baseline_demand_severe_low_energy,1.0166136474927878
+Romania,extreme_demand_baseline_energy,0.5083068237463939
+Romania,extreme_demand_low_energy,1.0166136474927878
+Romania,extreme_demand_severe_low_energy,2.0332272949855756
+Romania,high_demand_baseline_energy,0.38123011780979543
+Romania,high_demand_low_energy,0.7624602356195909
+Romania,high_demand_severe_low_energy,1.5249204712391817
+Russian Federation,baseline_demand_baseline_energy,0.2534851624188055
+Russian Federation,baseline_demand_low_energy,0.506970324837611
+Russian Federation,baseline_demand_severe_low_energy,1.013940649675222
+Russian Federation,extreme_demand_baseline_energy,0.506970324837611
+Russian Federation,extreme_demand_low_energy,1.013940649675222
+Russian Federation,extreme_demand_severe_low_energy,2.027881299350444
+Russian Federation,high_demand_baseline_energy,0.38022774362820816
+Russian Federation,high_demand_low_energy,0.7604554872564163
+Russian Federation,high_demand_severe_low_energy,1.5209109745128326
+Rwanda,baseline_demand_baseline_energy,-1.011383915538054
+Rwanda,baseline_demand_low_energy,-2.022767831076108
+Rwanda,baseline_demand_severe_low_energy,-4.045535662152216
+Rwanda,extreme_demand_baseline_energy,-2.022767831076108
+Rwanda,extreme_demand_low_energy,-4.045535662152216
+Rwanda,extreme_demand_severe_low_energy,-8.091071324304432
+Rwanda,high_demand_baseline_energy,-1.517075873307081
+Rwanda,high_demand_low_energy,-3.034151746614162
+Rwanda,high_demand_severe_low_energy,-6.068303493228324
+Saudi Arabia,baseline_demand_baseline_energy,0.23930048790837982
+Saudi Arabia,baseline_demand_low_energy,0.47860097581675964
+Saudi Arabia,baseline_demand_severe_low_energy,0.9572019516335193
+Saudi Arabia,extreme_demand_baseline_energy,0.47860097581675964
+Saudi Arabia,extreme_demand_low_energy,0.9572019516335193
+Saudi Arabia,extreme_demand_severe_low_energy,1.9144039032670386
+Saudi Arabia,high_demand_baseline_energy,0.3589507318625697
+Saudi Arabia,high_demand_low_energy,0.7179014637251394
+Saudi Arabia,high_demand_severe_low_energy,1.4358029274502788
+Senegal,baseline_demand_baseline_energy,-0.47531720593400106
+Senegal,baseline_demand_low_energy,-0.9506344118680021
+Senegal,baseline_demand_severe_low_energy,-1.9012688237360043
+Senegal,extreme_demand_baseline_energy,-0.9506344118680021
+Senegal,extreme_demand_low_energy,-1.9012688237360043
+Senegal,extreme_demand_severe_low_energy,-3.8025376474720085
+Senegal,high_demand_baseline_energy,-0.7129758089010017
+Senegal,high_demand_low_energy,-1.4259516178020033
+Senegal,high_demand_severe_low_energy,-2.8519032356040066
+Serbia,baseline_demand_baseline_energy,0.10459884342937328
+Serbia,baseline_demand_low_energy,0.20919768685874657
+Serbia,baseline_demand_severe_low_energy,0.41839537371749314
+Serbia,extreme_demand_baseline_energy,0.20919768685874657
+Serbia,extreme_demand_low_energy,0.41839537371749314
+Serbia,extreme_demand_severe_low_energy,0.8367907474349863
+Serbia,high_demand_baseline_energy,0.15689826514405994
+Serbia,high_demand_low_energy,0.3137965302881199
+Serbia,high_demand_severe_low_energy,0.6275930605762398
+Sierra Leone,baseline_demand_baseline_energy,-1.0969187848267703
+Sierra Leone,baseline_demand_low_energy,-2.1938375696535406
+Sierra Leone,baseline_demand_severe_low_energy,-4.387675139307081
+Sierra Leone,extreme_demand_baseline_energy,-2.1938375696535406
+Sierra Leone,extreme_demand_low_energy,-4.387675139307081
+Sierra Leone,extreme_demand_severe_low_energy,-8.775350278614162
+Sierra Leone,high_demand_baseline_energy,-1.6453781772401552
+Sierra Leone,high_demand_low_energy,-3.2907563544803105
+Sierra Leone,high_demand_severe_low_energy,-6.581512708960621
+Singapore,baseline_demand_baseline_energy,0.2976762092941362
+Singapore,baseline_demand_low_energy,0.5953524185882724
+Singapore,baseline_demand_severe_low_energy,1.1907048371765447
+Singapore,extreme_demand_baseline_energy,0.5953524185882724
+Singapore,extreme_demand_low_energy,1.1907048371765447
+Singapore,extreme_demand_severe_low_energy,2.3814096743530895
+Singapore,high_demand_baseline_energy,0.4465143139412042
+Singapore,high_demand_low_energy,0.8930286278824084
+Singapore,high_demand_severe_low_energy,1.7860572557648169
+Slovak Republic,baseline_demand_baseline_energy,0.24202955503358167
+Slovak Republic,baseline_demand_low_energy,0.48405911006716335
+Slovak Republic,baseline_demand_severe_low_energy,0.9681182201343267
+Slovak Republic,extreme_demand_baseline_energy,0.48405911006716335
+Slovak Republic,extreme_demand_low_energy,0.9681182201343267
+Slovak Republic,extreme_demand_severe_low_energy,1.9362364402686534
+Slovak Republic,high_demand_baseline_energy,0.3630443325503725
+Slovak Republic,high_demand_low_energy,0.726088665100745
+Slovak Republic,high_demand_severe_low_energy,1.45217733020149
+Slovenia,baseline_demand_baseline_energy,0.1974669529334436
+Slovenia,baseline_demand_low_energy,0.3949339058668872
+Slovenia,baseline_demand_severe_low_energy,0.7898678117337744
+Slovenia,extreme_demand_baseline_energy,0.3949339058668872
+Slovenia,extreme_demand_low_energy,0.7898678117337744
+Slovenia,extreme_demand_severe_low_energy,1.5797356234675488
+Slovenia,high_demand_baseline_energy,0.2962004294001654
+Slovenia,high_demand_low_energy,0.5924008588003308
+Slovenia,high_demand_severe_low_energy,1.1848017176006616
+Small states,baseline_demand_baseline_energy,0.12931813474564072
+Small states,baseline_demand_low_energy,0.25863626949128143
+Small states,baseline_demand_severe_low_energy,0.5172725389825629
+Small states,extreme_demand_baseline_energy,0.25863626949128143
+Small states,extreme_demand_low_energy,0.5172725389825629
+Small states,extreme_demand_severe_low_energy,1.0345450779651257
+Small states,high_demand_baseline_energy,0.19397720211846106
+Small states,high_demand_low_energy,0.3879544042369221
+Small states,high_demand_severe_low_energy,0.7759088084738442
+"Somalia, Fed. Rep.",baseline_demand_baseline_energy,-1.2979916408441936
+"Somalia, Fed. Rep.",baseline_demand_low_energy,-2.595983281688387
+"Somalia, Fed. Rep.",baseline_demand_severe_low_energy,-5.191966563376774
+"Somalia, Fed. Rep.",extreme_demand_baseline_energy,-2.595983281688387
+"Somalia, Fed. Rep.",extreme_demand_low_energy,-5.191966563376774
+"Somalia, Fed. Rep.",extreme_demand_severe_low_energy,-10.383933126753549
+"Somalia, Fed. Rep.",high_demand_baseline_energy,-1.9469874612662905
+"Somalia, Fed. Rep.",high_demand_low_energy,-3.893974922532581
+"Somalia, Fed. Rep.",high_demand_severe_low_energy,-7.787949845065162
+South Sudan,baseline_demand_baseline_energy,-1.8656845441403958
+South Sudan,baseline_demand_low_energy,-3.7313690882807915
+South Sudan,baseline_demand_severe_low_energy,-7.462738176561583
+South Sudan,extreme_demand_baseline_energy,-3.7313690882807915
+South Sudan,extreme_demand_low_energy,-7.462738176561583
+South Sudan,extreme_demand_severe_low_energy,-14.925476353123166
+South Sudan,high_demand_baseline_energy,-2.798526816210594
+South Sudan,high_demand_low_energy,-5.597053632421188
+South Sudan,high_demand_severe_low_energy,-11.194107264842376
+Spain,baseline_demand_baseline_energy,0.39303524857225736
+Spain,baseline_demand_low_energy,0.7860704971445147
+Spain,baseline_demand_severe_low_energy,1.5721409942890294
+Spain,extreme_demand_baseline_energy,0.7860704971445147
+Spain,extreme_demand_low_energy,1.5721409942890294
+Spain,extreme_demand_severe_low_energy,3.144281988578059
+Spain,high_demand_baseline_energy,0.5895528728583861
+Spain,high_demand_low_energy,1.1791057457167722
+Spain,high_demand_severe_low_energy,2.3582114914335444
+Sri Lanka,baseline_demand_baseline_energy,-0.27083816105404895
+Sri Lanka,baseline_demand_low_energy,-0.5416763221080979
+Sri Lanka,baseline_demand_severe_low_energy,-1.0833526442161958
+Sri Lanka,extreme_demand_baseline_energy,-0.5416763221080979
+Sri Lanka,extreme_demand_low_energy,-1.0833526442161958
+Sri Lanka,extreme_demand_severe_low_energy,-2.1667052884323916
+Sri Lanka,high_demand_baseline_energy,-0.40625724158107335
+Sri Lanka,high_demand_low_energy,-0.8125144831621467
+Sri Lanka,high_demand_severe_low_energy,-1.6250289663242934
+Sudan,baseline_demand_baseline_energy,-0.9799802722723756
+Sudan,baseline_demand_low_energy,-1.9599605445447512
+Sudan,baseline_demand_severe_low_energy,-3.9199210890895024
+Sudan,extreme_demand_baseline_energy,-1.9599605445447512
+Sudan,extreme_demand_low_energy,-3.9199210890895024
+Sudan,extreme_demand_severe_low_energy,-7.839842178179005
+Sudan,high_demand_baseline_energy,-1.4699704084085632
+Sudan,high_demand_low_energy,-2.9399408168171264
+Sudan,high_demand_severe_low_energy,-5.879881633634253
+Sweden,baseline_demand_baseline_energy,0.2380301363555406
+Sweden,baseline_demand_low_energy,0.4760602727110812
+Sweden,baseline_demand_severe_low_energy,0.9521205454221624
+Sweden,extreme_demand_baseline_energy,0.4760602727110812
+Sweden,extreme_demand_low_energy,0.9521205454221624
+Sweden,extreme_demand_severe_low_energy,1.9042410908443248
+Sweden,high_demand_baseline_energy,0.3570452045333109
+Sweden,high_demand_low_energy,0.7140904090666218
+Sweden,high_demand_severe_low_energy,1.4281808181332436
+Switzerland,baseline_demand_baseline_energy,0.3965252667091925
+Switzerland,baseline_demand_low_energy,0.793050533418385
+Switzerland,baseline_demand_severe_low_energy,1.58610106683677
+Switzerland,extreme_demand_baseline_energy,0.793050533418385
+Switzerland,extreme_demand_low_energy,1.58610106683677
+Switzerland,extreme_demand_severe_low_energy,3.17220213367354
+Switzerland,high_demand_baseline_energy,0.5947879000637888
+Switzerland,high_demand_low_energy,1.1895758001275776
+Switzerland,high_demand_severe_low_energy,2.379151600255155
+Syrian Arab Republic,baseline_demand_baseline_energy,-0.6615449535985125
+Syrian Arab Republic,baseline_demand_low_energy,-1.323089907197025
+Syrian Arab Republic,baseline_demand_severe_low_energy,-2.64617981439405
+Syrian Arab Republic,extreme_demand_baseline_energy,-1.323089907197025
+Syrian Arab Republic,extreme_demand_low_energy,-2.64617981439405
+Syrian Arab Republic,extreme_demand_severe_low_energy,-5.2923596287881
+Syrian Arab Republic,high_demand_baseline_energy,-0.9923174303977689
+Syrian Arab Republic,high_demand_low_energy,-1.9846348607955377
+Syrian Arab Republic,high_demand_severe_low_energy,-3.9692697215910755
+Tajikistan,baseline_demand_baseline_energy,-0.6258518539340185
+Tajikistan,baseline_demand_low_energy,-1.251703707868037
+Tajikistan,baseline_demand_severe_low_energy,-2.503407415736074
+Tajikistan,extreme_demand_baseline_energy,-1.251703707868037
+Tajikistan,extreme_demand_low_energy,-2.503407415736074
+Tajikistan,extreme_demand_severe_low_energy,-5.006814831472148
+Tajikistan,high_demand_baseline_energy,-0.9387777809010277
+Tajikistan,high_demand_low_energy,-1.8775555618020554
+Tajikistan,high_demand_severe_low_energy,-3.755111123604111
+Tanzania,baseline_demand_baseline_energy,-0.8553225810656885
+Tanzania,baseline_demand_low_energy,-1.710645162131377
+Tanzania,baseline_demand_severe_low_energy,-3.421290324262754
+Tanzania,extreme_demand_baseline_energy,-1.710645162131377
+Tanzania,extreme_demand_low_energy,-3.421290324262754
+Tanzania,extreme_demand_severe_low_energy,-6.842580648525508
+Tanzania,high_demand_baseline_energy,-1.2829838715985327
+Tanzania,high_demand_low_energy,-2.5659677431970653
+Tanzania,high_demand_severe_low_energy,-5.131935486394131
+Thailand,baseline_demand_baseline_energy,0.19374344608599614
+Thailand,baseline_demand_low_energy,0.3874868921719923
+Thailand,baseline_demand_severe_low_energy,0.7749737843439846
+Thailand,extreme_demand_baseline_energy,0.3874868921719923
+Thailand,extreme_demand_low_energy,0.7749737843439846
+Thailand,extreme_demand_severe_low_energy,1.5499475686879691
+Thailand,high_demand_baseline_energy,0.2906151691289942
+Thailand,high_demand_low_energy,0.5812303382579884
+Thailand,high_demand_severe_low_energy,1.1624606765159768
+Timor-Leste,baseline_demand_baseline_energy,-0.8418330994963668
+Timor-Leste,baseline_demand_low_energy,-1.6836661989927335
+Timor-Leste,baseline_demand_severe_low_energy,-3.367332397985467
+Timor-Leste,extreme_demand_baseline_energy,-1.6836661989927335
+Timor-Leste,extreme_demand_low_energy,-3.367332397985467
+Timor-Leste,extreme_demand_severe_low_energy,-6.734664795970934
+Timor-Leste,high_demand_baseline_energy,-1.2627496492445502
+Timor-Leste,high_demand_low_energy,-2.5254992984891005
+Timor-Leste,high_demand_severe_low_energy,-5.050998596978201
+Togo,baseline_demand_baseline_energy,-1.0232019505583962
+Togo,baseline_demand_low_energy,-2.0464039011167925
+Togo,baseline_demand_severe_low_energy,-4.092807802233585
+Togo,extreme_demand_baseline_energy,-2.0464039011167925
+Togo,extreme_demand_low_energy,-4.092807802233585
+Togo,extreme_demand_severe_low_energy,-8.18561560446717
+Togo,high_demand_baseline_energy,-1.5348029258375941
+Togo,high_demand_low_energy,-3.0696058516751883
+Togo,high_demand_severe_low_energy,-6.139211703350377
+Tunisia,baseline_demand_baseline_energy,-0.05158729582583777
+Tunisia,baseline_demand_low_energy,-0.10317459165167554
+Tunisia,baseline_demand_severe_low_energy,-0.20634918330335109
+Tunisia,extreme_demand_baseline_energy,-0.10317459165167554
+Tunisia,extreme_demand_low_energy,-0.20634918330335109
+Tunisia,extreme_demand_severe_low_energy,-0.41269836660670217
+Tunisia,high_demand_baseline_energy,-0.07738094373875666
+Tunisia,high_demand_low_energy,-0.15476188747751332
+Tunisia,high_demand_severe_low_energy,-0.30952377495502664
+Turkiye,baseline_demand_baseline_energy,0.2899595598952187
+Turkiye,baseline_demand_low_energy,0.5799191197904374
+Turkiye,baseline_demand_severe_low_energy,1.1598382395808748
+Turkiye,extreme_demand_baseline_energy,0.5799191197904374
+Turkiye,extreme_demand_low_energy,1.1598382395808748
+Turkiye,extreme_demand_severe_low_energy,2.3196764791617497
+Turkiye,high_demand_baseline_energy,0.43493933984282807
+Turkiye,high_demand_low_energy,0.8698786796856561
+Turkiye,high_demand_severe_low_energy,1.7397573593713123
+Turkmenistan,baseline_demand_baseline_energy,-0.4343957159042664
+Turkmenistan,baseline_demand_low_energy,-0.8687914318085328
+Turkmenistan,baseline_demand_severe_low_energy,-1.7375828636170656
+Turkmenistan,extreme_demand_baseline_energy,-0.8687914318085328
+Turkmenistan,extreme_demand_low_energy,-1.7375828636170656
+Turkmenistan,extreme_demand_severe_low_energy,-3.475165727234131
+Turkmenistan,high_demand_baseline_energy,-0.6515935738563996
+Turkmenistan,high_demand_low_energy,-1.3031871477127992
+Turkmenistan,high_demand_severe_low_energy,-2.6063742954255984
+Uganda,baseline_demand_baseline_energy,-1.3333000584766923
+Uganda,baseline_demand_low_energy,-2.6666001169533846
+Uganda,baseline_demand_severe_low_energy,-5.333200233906769
+Uganda,extreme_demand_baseline_energy,-2.6666001169533846
+Uganda,extreme_demand_low_energy,-5.333200233906769
+Uganda,extreme_demand_severe_low_energy,-10.666400467813538
+Uganda,high_demand_baseline_energy,-1.9999500877150385
+Uganda,high_demand_low_energy,-3.999900175430077
+Uganda,high_demand_severe_low_energy,-7.999800350860154
+Ukraine,baseline_demand_baseline_energy,0.05399920578177893
+Ukraine,baseline_demand_low_energy,0.10799841156355786
+Ukraine,baseline_demand_severe_low_energy,0.2159968231271157
+Ukraine,extreme_demand_baseline_energy,0.10799841156355786
+Ukraine,extreme_demand_low_energy,0.2159968231271157
+Ukraine,extreme_demand_severe_low_energy,0.4319936462542314
+Ukraine,high_demand_baseline_energy,0.0809988086726684
+Ukraine,high_demand_low_energy,0.1619976173453368
+Ukraine,high_demand_severe_low_energy,0.3239952346906736
+United Arab Emirates,baseline_demand_baseline_energy,0.22372527356052832
+United Arab Emirates,baseline_demand_low_energy,0.44745054712105664
+United Arab Emirates,baseline_demand_severe_low_energy,0.8949010942421133
+United Arab Emirates,extreme_demand_baseline_energy,0.44745054712105664
+United Arab Emirates,extreme_demand_low_energy,0.8949010942421133
+United Arab Emirates,extreme_demand_severe_low_energy,1.7898021884842266
+United Arab Emirates,high_demand_baseline_energy,0.3355879103407925
+United Arab Emirates,high_demand_low_energy,0.671175820681585
+United Arab Emirates,high_demand_severe_low_energy,1.34235164136317
+United Kingdom,baseline_demand_baseline_energy,0.5109785565973197
+United Kingdom,baseline_demand_low_energy,1.0219571131946394
+United Kingdom,baseline_demand_severe_low_energy,2.043914226389279
+United Kingdom,extreme_demand_baseline_energy,1.0219571131946394
+United Kingdom,extreme_demand_low_energy,2.043914226389279
+United Kingdom,extreme_demand_severe_low_energy,4.087828452778558
+United Kingdom,high_demand_baseline_energy,0.7664678348959797
+United Kingdom,high_demand_low_energy,1.5329356697919594
+United Kingdom,high_demand_severe_low_energy,3.0658713395839188
+United States,baseline_demand_baseline_energy,0.3348607814636698
+United States,baseline_demand_low_energy,0.6697215629273396
+United States,baseline_demand_severe_low_energy,1.3394431258546793
+United States,extreme_demand_baseline_energy,0.6697215629273396
+United States,extreme_demand_low_energy,1.3394431258546793
+United States,extreme_demand_severe_low_energy,2.6788862517093586
+United States,high_demand_baseline_energy,0.5022911721955047
+United States,high_demand_low_energy,1.0045823443910094
+United States,high_demand_severe_low_energy,2.0091646887820187
+Uruguay,baseline_demand_baseline_energy,0.22841482204490768
+Uruguay,baseline_demand_low_energy,0.45682964408981536
+Uruguay,baseline_demand_severe_low_energy,0.9136592881796307
+Uruguay,extreme_demand_baseline_energy,0.45682964408981536
+Uruguay,extreme_demand_low_energy,0.9136592881796307
+Uruguay,extreme_demand_severe_low_energy,1.8273185763592614
+Uruguay,high_demand_baseline_energy,0.3426222330673615
+Uruguay,high_demand_low_energy,0.685244466134723
+Uruguay,high_demand_severe_low_energy,1.370488932269446
+Uzbekistan,baseline_demand_baseline_energy,-0.050009769007533775
+Uzbekistan,baseline_demand_low_energy,-0.10001953801506755
+Uzbekistan,baseline_demand_severe_low_energy,-0.2000390760301351
+Uzbekistan,extreme_demand_baseline_energy,-0.10001953801506755
+Uzbekistan,extreme_demand_low_energy,-0.2000390760301351
+Uzbekistan,extreme_demand_severe_low_energy,-0.4000781520602702
+Uzbekistan,high_demand_baseline_energy,-0.07501465351130068
+Uzbekistan,high_demand_low_energy,-0.15002930702260137
+Uzbekistan,high_demand_severe_low_energy,-0.30005861404520273
+"Venezuela, RB",baseline_demand_baseline_energy,-0.004389046702802213
+"Venezuela, RB",baseline_demand_low_energy,-0.008778093405604426
+"Venezuela, RB",baseline_demand_severe_low_energy,-0.01755618681120885
+"Venezuela, RB",extreme_demand_baseline_energy,-0.008778093405604426
+"Venezuela, RB",extreme_demand_low_energy,-0.01755618681120885
+"Venezuela, RB",extreme_demand_severe_low_energy,-0.0351123736224177
+"Venezuela, RB",high_demand_baseline_energy,-0.006583570054203319
+"Venezuela, RB",high_demand_low_energy,-0.013167140108406639
+"Venezuela, RB",high_demand_severe_low_energy,-0.026334280216813277
+Viet Nam,baseline_demand_baseline_energy,0.09418903375432405
+Viet Nam,baseline_demand_low_energy,0.1883780675086481
+Viet Nam,baseline_demand_severe_low_energy,0.3767561350172962
+Viet Nam,extreme_demand_baseline_energy,0.1883780675086481
+Viet Nam,extreme_demand_low_energy,0.3767561350172962
+Viet Nam,extreme_demand_severe_low_energy,0.7535122700345924
+Viet Nam,high_demand_baseline_energy,0.14128355063148607
+Viet Nam,high_demand_low_energy,0.28256710126297213
+Viet Nam,high_demand_severe_low_energy,0.5651342025259443
+West Bank and Gaza,baseline_demand_baseline_energy,-0.09092422904994119
+West Bank and Gaza,baseline_demand_low_energy,-0.18184845809988237
+West Bank and Gaza,baseline_demand_severe_low_energy,-0.36369691619976474
+West Bank and Gaza,extreme_demand_baseline_energy,-0.18184845809988237
+West Bank and Gaza,extreme_demand_low_energy,-0.36369691619976474
+West Bank and Gaza,extreme_demand_severe_low_energy,-0.7273938323995295
+West Bank and Gaza,high_demand_baseline_energy,-0.13638634357491178
+West Bank and Gaza,high_demand_low_energy,-0.27277268714982356
+West Bank and Gaza,high_demand_severe_low_energy,-0.5455453742996471
+"Yemen, Rep.",baseline_demand_baseline_energy,-0.7718216185285128
+"Yemen, Rep.",baseline_demand_low_energy,-1.5436432370570257
+"Yemen, Rep.",baseline_demand_severe_low_energy,-3.0872864741140513
+"Yemen, Rep.",extreme_demand_baseline_energy,-1.5436432370570257
+"Yemen, Rep.",extreme_demand_low_energy,-3.0872864741140513
+"Yemen, Rep.",extreme_demand_severe_low_energy,-6.174572948228103
+"Yemen, Rep.",high_demand_baseline_energy,-1.1577324277927692
+"Yemen, Rep.",high_demand_low_energy,-2.3154648555855384
+"Yemen, Rep.",high_demand_severe_low_energy,-4.630929711171077
+Zambia,baseline_demand_baseline_energy,-0.9624139837140028
+Zambia,baseline_demand_low_energy,-1.9248279674280055
+Zambia,baseline_demand_severe_low_energy,-3.849655934856011
+Zambia,extreme_demand_baseline_energy,-1.9248279674280055
+Zambia,extreme_demand_low_energy,-3.849655934856011
+Zambia,extreme_demand_severe_low_energy,-7.699311869712022
+Zambia,high_demand_baseline_energy,-1.443620975571004
+Zambia,high_demand_low_energy,-2.887241951142008
+Zambia,high_demand_severe_low_energy,-5.774483902284016
+Zimbabwe,baseline_demand_baseline_energy,-0.519344684998992
+Zimbabwe,baseline_demand_low_energy,-1.038689369997984
+Zimbabwe,baseline_demand_severe_low_energy,-2.077378739995968
+Zimbabwe,extreme_demand_baseline_energy,-1.038689369997984
+Zimbabwe,extreme_demand_low_energy,-2.077378739995968
+Zimbabwe,extreme_demand_severe_low_energy,-4.154757479991936
+Zimbabwe,high_demand_baseline_energy,-0.779017027498488
+Zimbabwe,high_demand_low_energy,-1.558034054996976
+Zimbabwe,high_demand_severe_low_energy,-3.116068109993952

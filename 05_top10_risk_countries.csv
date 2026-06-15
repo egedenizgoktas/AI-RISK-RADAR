@@ -1,0 +1,11 @@
+country,scenario_risk_score,risk_cluster,risk_level
+United Kingdom,1.7884249480906191,1,High Risk
+Germany,1.5033285922013264,1,High Risk
+Ireland,1.4436615216971989,1,High Risk
+Denmark,1.4052777471922178,1,High Risk
+Switzerland,1.3878384334821738,1,High Risk
+Spain,1.3756233700029006,1,High Risk
+Netherlands,1.3742731029979076,1,High Risk
+Italy,1.3239626507330096,1,High Risk
+France,1.3135190784516795,1,High Risk
+Japan,1.290966351331817,1,High Risk
